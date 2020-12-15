@@ -3,7 +3,7 @@ import requests #data scraping
 import time
 
 from selenium import webdriver
-driver = webdriver.Chrome(r'C:\Users\dangk\Downloads\chromedriver_win32\chromedriver.exe')
+driver = webdriver.Chrome(r'...\chromedriver.exe')
 driver.get('https://osu.ppy.sh/beatmapsets')
 
 

@@ -1,0 +1,36 @@
+205,Introduction to Statistical Inquiry ,STAT205,Mathematics 30-1 or 30-2 or Mathematics 2 (offered by Continuing Education). ,Credit for Statistics 205 and any one of Statistics 213, 217, or 327 will not be allowed. Students may not register in, or have credit for, Statistics 205 if they have previous credit for one of Statistics 321 or Engineering 319 or are concurrently enrolled in Statistics 321 or Engineering 319.,none
+213,Introduction to Statistics I,STAT213,Mathematics 30-1 or Mathematics 2 (offered by Continuing Education).,Credit for Statistics 213 and either Statistics 205 or 327 will not be allowed. Not available to students who have previous credit for one of Statistics 321 or Engineering 319 or are concurrently enrolled in Statistics 321 or Engineering 319.,none
+217,Introduction to Statistics II,STAT217,Statistics 213.,Credit for Statistics 217 and either Statistics 205 or 327 will not be allowed. Not available to students who have previous credit for one of Statistics 321 or Engineering 319 or are concurrently enrolled in Statistics 321 or Engineering 319.,none
+321,Introduction to Probability ,STAT321,Mathematics 267 or 277. ,Credit for Statistics 321 and either Engineering 319 or Mathematics 321 will not be allowed.,none
+323,Introduction to Theoretical Statistics,STAT323,Statistics 321.,Credit for Statistics 323 and either Data Science 305 or Mathematics 323 will not be allowed.,none
+327,Statistics for the Physical and Environmental Sciences,STAT327,3 units from Mathematics 249, 265 or 275.,Credit for Statistics 327 and any one of Statistics 205, 213 or 217 will not be allowed.,none
+421,Mathematical Statistics,STAT421,Statistics 323.,none,none
+423,Statistical Analysis of Sample Survey ,STAT423,3 units from Statistics 217, 323, 327, Data Science 305, Engineering 319, Psychology 300, 301, 312, or Sociology 311.,none,none
+425,Statistical Design and Analysis of Experiments ,STAT425,3 units from Statistics 217, 323, 327, Data Science 305, Engineering 319, Psychology 300, 301, 312, or Sociology 311.,none,none
+429,Linear Models and Their Applications,STAT429,Statistics 323 or Data Science 305; and Mathematics 211 or 213.,none,none
+431,Introduction to Biostatistics ,STAT431,Statistics 323 or Data Science 305. ,none,none
+505,Time Series Analysis,STAT505,Statistics 429.,none,none
+507,Introduction to Stochastic Processes ,STAT507,Statistics 321.,Credit for Statistics 507 and 407 will not be allowed.,none
+517,Practice of Statistics,STAT517,6 units from Statistics 423, 425, 429 and 505.,Credit for Statistics 517 and either 513 or 515 will not be allowed.,none
+519,Bayesian Statistics,STAT519,Statistics 323; and Mathematics 267 or 277.,Credit for Statistics 519 and 619 will not be allowed.,none
+523,Non-parametric Statistics,STAT523,Statistics 323.,none,none
+525,Applied Multivariate Analysis,STAT525,Statistics 323.,Credit for Statistics 525 and 625 will not be allowed.,none
+529,Special Topics in Applied Statistics,STAT529, Consent of the Department.,none,none
+531,Monte Carlo Methods and Statistical Computing,STAT531,Statistics 323; and Mathematics 267 or 277.,none,none
+533,Survival Models,STAT533,Statistics 323.,Credit for Statistics 533 and either 633 or 433 will not be allowed.,none
+541,Categorical Data Analysis ,STAT541,Statistics 429.,none,none
+543,Statistical Learning ,STAT543,Statistics 429.,Credit for Statistics 543 and 641 will not be allowed.,none
+600,Research Seminar ,STAT600,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
+601,Topics in Probability and Statistics,STAT601,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
+603,Applied Statistics for Nursing Research,STAT603,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
+619,Bayesian Statistics,STAT619,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,Credit for Statistics 619 and 519 will not be allowed.,none
+625,Multivariate Analysis,STAT625,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,Credit for Statistics 625 and 525 will not be allowed.,none
+631,Computational Statistics,STAT631,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
+633,Survival Models,STAT633,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,Credit for Statistics 633 and 533 will not be allowed.,none
+635,Generalized Linear Models,STAT635,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
+637,Non-linear Regression,STAT637,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
+641,Statistical Learning ,STAT641,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,Credit for Statistics 641 and 543 will not be allowed.,none
+701,Theory of Probability I,STAT701,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
+703,Theory of Probability II,STAT703,Statistics 701 and admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
+721,Statistical Inference ,STAT721,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
+723,Theory of Hypothesis Testing,STAT723,Statistics 721 and admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none

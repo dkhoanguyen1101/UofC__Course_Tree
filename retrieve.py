@@ -69,7 +69,7 @@ def log_course(courses, code, name):
 
         # sql = f"INSERT INTO {code} (number, name , code , pre , anti , con , des) VALUES (\'{number}\', \'{course_name}\', \'{course_code}\', \'{course_pre}\', \'{course_anti}\', \'{course_con}\', \'{course_desc}\')"
         sql = f"INSERT INTO {code} (number, name , code , pre , anti , con ) VALUES (\'{number}\', \'{course_name}\', \'{course_code}\', \'{course_pre}\', \'{course_anti}\', \'{course_con}\')"
-        print(sql)
+        # print(sql)
         cursor.execute(sql)
 
         # print(course_code)
@@ -84,9 +84,9 @@ def get_data(soup):
         courses, code, name = get_course_info('https://www.ucalgary.ca/pubs/calendar/current/'+str(j))
 
         if (code == "PLAN"):
-            code = "FLAN"
+            code = "PPLAN"
         elif (code == "TRAN"):
-            code = "TRANG"
+            code = "TTRAN"
         sql = "INSERT INTO courses (code, name) VALUES (?, ?)"
         val = (code, name)
         cursor.execute(sql, val)
