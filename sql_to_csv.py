@@ -47,10 +47,8 @@ if __name__ ==  '__main__':
     csv_reader = csv.reader(csv_file, delimiter=',')
     line_count = 0
     for row in csv_reader:
-        if line_count != 0:
-            table_name = row[0].replace("PLAN", "PPLAN").replace("TRAN", "TTRAN")
-            csv_from_table(f"dbo.{table_name}", f"data/{row[0]}.csv", row[0])
-
+        table_name = row[0].replace("PLAN", "PPLAN").replace("TRAN", "TTRAN")
+        csv_from_table(f"dbo.{table_name}", f"data/{row[0]}.csv", row[0])
         line_count += 1
     conn.close()
 
