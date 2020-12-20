@@ -1,90 +1,62 @@
-300,Clinical Presentations I,VETM300,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
-305,Clinical Skills I,VETM305,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
-307,Professional Skills I,VETM307,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
-320,Anatomy and Histology,VETM320,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
-321,Physiology,VETM321,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
-322,Animal Behaviour and Welfare,VETM322,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
-323,Animals, Health, and Society,VETM323,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
-324,Genetics and Molecular Biology,VETM324,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
-342,Pathologic Basis of Disease,VETM342,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
-343,Immunology,VETM343,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
-344,Principles of Epidemiology,VETM344,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
-345,Introduction to Nutrition,VETM345,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
-360,Introduction to Veterinary Medicine,VETM360,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
-400,Clinical Presentations II,VETM400,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
-405,Clinical Skills II,VETM405,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
-407,Professional Skills II,VETM407,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
-411,Basic Surgical Principles ,VETM411,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
-420,Health Management,VETM420,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
-422,Virology,VETM422,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
-423,Bacteriology,VETM423,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
-424,Parasitology,VETM424,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
-425,Systemic Pathology,VETM425,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
-440,One Health and Veterinary Practice ,VETM440,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
-442,Clinical Pathology,VETM442,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
-443,Clinical Pharmacology and Toxicology,VETM443,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
-445,Diagnostic Imaging,VETM445,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
-461,Outbreak Investigation,VETM461,Admission to the Doctor of Veterinary Medicine (DVM) Program.
-    ,none,none
-462,Foreign Animal Disease,VETM462,Admission to the Doctor of Veterinary Medicine (DVM) Program.
-    ,none,none
-464,Career Options and Field Experiences in Veterinary Medicine ,VETM464,Admission to the Doctor of Veterinary Medicine (DVM) Program.
-     ,none,none
-465,Applied Nutrition,VETM465,Admission to the Doctor of Veterinary Medicine (DVM) Program.
-      ,none,none
-501,Clinical Presentations III,VETM501,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
-505,Clinical Skills III,VETM505,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
-507,Professional Skills III,VETM507,Admission to the Doctor of Veterinary Medicine (DVM) Program.
-    ,none,none
-521,Equine Medicine and Surgery,VETM521,Admission to the Doctor of Veterinary Medicine (DVM) Program.
-      ,none,none
-522,Small Animal Medicine and Surgery,VETM522,Admission to the Doctor of Veterinary Medicine (DVM) Program.
-     ,none,none
-523,Anaesthesiology and Therapeutics,VETM523,Admission to the Doctor of Veterinary Medicine (DVM) Program.
-   ,none,none
-525,Advanced Health Management,VETM525,Admission to the Doctor of Veterinary Medicine (DVM) Program.
-     ,none,none
-530,Selected Topics in Clinical Medicine,VETM530,Admission to the Doctor of Veterinary Medicine (DVM) Program.
-    ,none,none
-531,Selected Topics in Small Ruminant, South American Camelid and Non-traditional Livestock Production,VETM531,Admission to the Doctor of Veterinary Medicine (DVM) Program.
-    ,none,none
-540,Food Animal Medicine and Surgery,VETM540,Admission to the Doctor of Veterinary Medicine (DVM) Program.
-      ,none,none
-541,Theriogenology,VETM541,Admission to the Doctor of Veterinary Medicine (DVM) Program.
-     ,none,none
-542,Emergency and Critical Care,VETM542,Admission to the Doctor of Veterinary Medicine (DVM) Program.
-    ,none,none
-550,Zoological Medicine,VETM550,Admission to the Doctor of Veterinary Medicine (DVM) Program.
-    ,none,none
-551,Laboratory Animal Medicine,VETM551,Admission to the Doctor of Veterinary Medicine (DVM) Program.
-    ,none,none
-561,Ecosystem and Public Health Field Course,VETM561,Admission to the Doctor of Veterinary Medicine (DVM) Program.
-   ,none,none
-570,Laboratory Diagnostics,VETM570,Admission to the Doctor of Veterinary Medicine (DVM) Program.
-   ,none,none
-580,General Veterinary Practice,VETM580,Admission to the Doctor of Veterinary Medicine (DVM) Program.
-   ,none,none
-582,Production Animal Health,VETM582,Admission to the Doctor of Veterinary Medicine (DVM) Program.
-     ,none,none
-583,Ecosystem and Public Health,VETM583,Admission to the Doctor of Veterinary Medicine (DVM) Program.
-   ,none,none
-584,Equine Health,VETM584,Admission to the Doctor of Veterinary Medicine (DVM) Program.
-   ,none,none
-585,Investigative Medicine,VETM585,Admission to the Doctor of Veterinary Medicine (DVM) Program.
-   ,none,none
-590,Clinical Enrichment,VETM590,Admission to the Doctor of Veterinary Medicine (DVM) Program.
-   ,none,none
-601,Professional Skills in Health Science Research,VETM601,Consent of the Faculty.,none,none
-605,Introduction to Biostastical Methods ,VETM605,Consent of the Faculty.,none,none
-610,Biostatistics I: Essentials of Biostatistics,VETM610,Admission to the Veterinary Medical Sciences graduate program.
-  ,none,none
-611,Biostatistics II: Models for Health Outcomes,VETM611,Veterinary Medicine 610.
-   ,none,none
-640,Fundamentals of Epidemiology,VETM640,Admission to the Veterinary Medical Sciences graduate program or consent of the Faculty.
-  ,none,Veterinary Medicine 610.
-690,Directed Study,VETM690,Consent of the Faculty.,none,none
-701,Advanced Topics in Reproductive Health,VETM701,Consent of course co-ordinator and student’s supervisor, if applicable.,none,none
-702,Advanced Topics in Stem Cell Biology and Regenerative Medicine,VETM702,Admission to the VMS graduate program or consent of the instructor.,none,none
-721,Wildlife Parasitology: Principles and Techniques,VETM721,Consent of the instructor.,none,none
-740,Advanced Epidemiology,VETM740,Veterinary Medicine 640 or consent of the Faculty.
-   ,none,none
+300,Clinical Presentations I,VETM 300,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
+305,Clinical Skills I,VETM 305,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
+307,Professional Skills I,VETM 307,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
+320,Anatomy and Histology,VETM 320,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
+321,Physiology,VETM 321,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
+322,Animal Behaviour and Welfare,VETM 322,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
+323,Animals$ Health$ and Society,VETM 323,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
+324,Genetics and Molecular Biology,VETM 324,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
+342,Pathologic Basis of Disease,VETM 342,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
+343,Immunology,VETM 343,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
+344,Principles of Epidemiology,VETM 344,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
+345,Introduction to Nutrition,VETM 345,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
+360,Introduction to Veterinary Medicine,VETM 360,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
+400,Clinical Presentations II,VETM 400,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
+405,Clinical Skills II,VETM 405,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
+407,Professional Skills II,VETM 407,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
+411,Basic Surgical Principles ,VETM 411,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
+420,Health Management,VETM 420,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
+422,Virology,VETM 422,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
+423,Bacteriology,VETM 423,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
+424,Parasitology,VETM 424,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
+425,Systemic Pathology,VETM 425,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
+440,One Health and Veterinary Practice ,VETM 440,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
+442,Clinical Pathology,VETM 442,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
+443,Clinical Pharmacology and Toxicology,VETM 443,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
+445,Diagnostic Imaging,VETM 445,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
+461,Outbreak Investigation,VETM 461,Admission to the Doctor of Veterinary Medicine (DVM) Program.    ,none,none
+462,Foreign Animal Disease,VETM 462,Admission to the Doctor of Veterinary Medicine (DVM) Program.    ,none,none
+464,Career Options and Field Experiences in Veterinary Medicine ,VETM 464,Admission to the Doctor of Veterinary Medicine (DVM) Program.     ,none,none
+465,Applied Nutrition,VETM 465,Admission to the Doctor of Veterinary Medicine (DVM) Program.      ,none,none
+501,Clinical Presentations III,VETM 501,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
+505,Clinical Skills III,VETM 505,Admission to the Doctor of Veterinary Medicine (DVM) Program.,none,none
+507,Professional Skills III,VETM 507,Admission to the Doctor of Veterinary Medicine (DVM) Program.    ,none,none
+521,Equine Medicine and Surgery,VETM 521,Admission to the Doctor of Veterinary Medicine (DVM) Program.      ,none,none
+522,Small Animal Medicine and Surgery,VETM 522,Admission to the Doctor of Veterinary Medicine (DVM) Program.     ,none,none
+523,Anaesthesiology and Therapeutics,VETM 523,Admission to the Doctor of Veterinary Medicine (DVM) Program.   ,none,none
+525,Advanced Health Management,VETM 525,Admission to the Doctor of Veterinary Medicine (DVM) Program.     ,none,none
+530,Selected Topics in Clinical Medicine,VETM 530,Admission to the Doctor of Veterinary Medicine (DVM) Program.    ,none,none
+531,Selected Topics in Small Ruminant$ South American Camelid and Non-traditional Livestock Production,VETM 531,Admission to the Doctor of Veterinary Medicine (DVM) Program.    ,none,none
+540,Food Animal Medicine and Surgery,VETM 540,Admission to the Doctor of Veterinary Medicine (DVM) Program.      ,none,none
+541,Theriogenology,VETM 541,Admission to the Doctor of Veterinary Medicine (DVM) Program.     ,none,none
+542,Emergency and Critical Care,VETM 542,Admission to the Doctor of Veterinary Medicine (DVM) Program.    ,none,none
+550,Zoological Medicine,VETM 550,Admission to the Doctor of Veterinary Medicine (DVM) Program.    ,none,none
+551,Laboratory Animal Medicine,VETM 551,Admission to the Doctor of Veterinary Medicine (DVM) Program.    ,none,none
+561,Ecosystem and Public Health Field Course,VETM 561,Admission to the Doctor of Veterinary Medicine (DVM) Program.   ,none,none
+570,Laboratory Diagnostics,VETM 570,Admission to the Doctor of Veterinary Medicine (DVM) Program.   ,none,none
+580,General Veterinary Practice,VETM 580,Admission to the Doctor of Veterinary Medicine (DVM) Program.   ,none,none
+582,Production Animal Health,VETM 582,Admission to the Doctor of Veterinary Medicine (DVM) Program.     ,none,none
+583,Ecosystem and Public Health,VETM 583,Admission to the Doctor of Veterinary Medicine (DVM) Program.   ,none,none
+584,Equine Health,VETM 584,Admission to the Doctor of Veterinary Medicine (DVM) Program.   ,none,none
+585,Investigative Medicine,VETM 585,Admission to the Doctor of Veterinary Medicine (DVM) Program.   ,none,none
+590,Clinical Enrichment,VETM 590,Admission to the Doctor of Veterinary Medicine (DVM) Program.   ,none,none
+601,Professional Skills in Health Science Research,VETM 601,Consent of the Faculty.,none,none
+605,Introduction to Biostastical Methods ,VETM 605,Consent of the Faculty.,none,none
+610,Biostatistics I: Essentials of Biostatistics,VETM 610,Admission to the Veterinary Medical Sciences graduate program.  ,none,none
+611,Biostatistics II: Models for Health Outcomes,VETM 611,Veterinary Medicine 610.   ,none,none
+640,Fundamentals of Epidemiology,VETM 640,Admission to the Veterinary Medical Sciences graduate program or consent of the Faculty.  ,none,Veterinary Medicine 610.
+690,Directed Study,VETM 690,Consent of the Faculty.,none,none
+701,Advanced Topics in Reproductive Health,VETM 701,Consent of course co-ordinator and student’s supervisor$ if applicable.,none,none
+702,Advanced Topics in Stem Cell Biology and Regenerative Medicine,VETM 702,Admission to the VMS graduate program or consent of the instructor.,none,none
+721,Wildlife Parasitology: Principles and Techniques,VETM 721,Consent of the instructor.,none,none
+740,Advanced Epidemiology,VETM 740,Veterinary Medicine 640 or consent of the Faculty.   ,none,none

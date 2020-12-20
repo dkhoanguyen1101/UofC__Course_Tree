@@ -1,56 +1,55 @@
-315,Chemical Engineering Process Calculation,ENCH315,none,none,Engineering 311.
-317,Materials Science for Chemical Engineers,ENCH317,Engineering 202; and Mathematics 275 or Applied Mathematics 217.,none,Chemistry 357.
-331,Process Fluid Dynamics,ENCH331,Engineering 201 and 202; and Mathematics 375 or Applied Mathematics 307.,none,none
-401,Partial Differential Equations in Transport Processes,ENCH401,Chemical Engineering 331; and Mathematics 375 or Applied Mathematics 307.,none,Chemical Engineering 403.
-403,Heat Transfer,ENCH403,Mathematics 375 or Applied Mathematics 307 and Chemical Engineering 331.,none,none
-405,Separation Processes I,ENCH405,Chemical Engineering 403 and 427.,none,Chemical Engineering 421.
-407,Numerical Methods in Chemical and Oil & Gas Engineering,ENCH407,Engineering 233; and Mathematics 375 or Applied Mathematics 307.,Credit for Chemical Engineering 407 and Engineering 407 will not be allowed.,none
-421,Chemical Engineering Kinetics,ENCH421, Chemical Engineering 403 and 407.,none, Chemical Engineering 405.
-423,Chemical Engineering Process Development,ENCH423,Chemical Engineering 315.,Credit for Chemical Engineering 423 and Petroleum Engineering 423 will not be allowed.,none
-427,Chemical Engineering Thermodynamics,ENCH427, Engineering 311 and Chemical Engineering 315.,none,none
-429,Process Dynamics and Control,ENCH429,Chemical Engineering 315 and Mathematics 375.,Credit for Chemical Engineering 429 and 529 will not be allowed.,Chemical Engineering 405.
-501,Transport Phenomena,ENCH501,Chemical Engineering 401.,none,none
-503,Crude Oil Upgrading and Refining,ENCH503,Third-year standing, or higher, in Chemical Engineering or Oil and Gas Engineering.,none,none
-505,Separation Processes II,ENCH505,Chemical Engineering 405.,none,none
-510,Chemical Process Design and Simulation ,ENCH510,Chemical Engineering 405, 421, 423, 429 and admission to the Chemical Engineering program. ,none,Petroleum Engineering 511.
-511,Chemical Process Design I,ENCH511,Chemical Engineering 405, 421, 423, 429 and admission to the Chemical Engineering program.,Credit for Chemical Engineering 511 and Petroleum Engineering 511 will not be allowed.,none
-519,Special Topics,ENCH519, Consent of the Department.,none,none
-530,Electrochemical Engineering,ENCH530,Chemical Engineering 421 and 427.,Credit for Chemical Engineering 530 and any of 519.13, 519.14 or 651 will not be allowed.,none
-531,Chemical Process Design II,ENCH531, Chemical Engineering 511.,none,none
-535,Principles of Biochemical Engineering,ENCH535,Chemistry 357.,none,none
-537,Computational Thermodynamics,ENCH537,Chemical Engineering 427.,none,none
-539,Polymer Engineering,ENCH539,Chemical Engineering 403.,none,Prerequisite or Corequisite: Chemistry 357.
-551,Chemical Engineering Laboratory,ENCH551,Chemical Engineering 405.,Credit for Chemical Engineering 551 and Petroleum Engineering 551 will not be allowed.,Chemical Engineering 505.
-607,Natural Gas Processing Principles,ENCH607,none,none,none
-609,Natural Gas Processing Technology,ENCH609, Chemical Engineering 607 or an undergraduate degree in Chemical Engineering.,none,none
-613,Advanced Topics in Mass Transfer,ENCH613,none,none,none
-615,Model Predictive Control,ENCH615,none,none,none
-617,Modelling and Identification Advanced Control,ENCH617,none,none,none
-619,Special Problems,ENCH619,none,none,none
-620,Graduate Project,ENCH620,Consent of the Department Head or Associate Head Graduate Studies.,Credit for Chemical Engineering 620 and 699 will not be allowed.,none
-621,Reservoir Simulation,ENCH621,Petroleum Engineering 429 or 523.,none,none
-623,Chemical Reactor Design,ENCH623,Chemical Engineering 421.,none,none
-625,Advanced Topics in Heat Transfer,ENCH625,none,none,none
-627,Chemical Process Simulation,ENCH627,none,none,none
-629,Secondary and Tertiary Recovery,ENCH629,Petroleum Engineering 525.,none,none
-630,Electrochemical Engineering,ENCH630,none,Credit for Chemical Engineering 630 and any of 519.13, 519.14 or 651 will not be allowed.,none
-631,Advanced Topics in Fluid Mechanics,ENCH631,none,none,none
-633,Chemical Thermodynamics,ENCH633,Chemical Engineering 427.,none,none
-639,Applied Numerical Methods in Engineering,ENCH639,none,none,none
-643,Air Pollution Control Engineering,ENCH643,none,Credit for Chemical Engineering 643 and Environmental Engineering 641 will not be allowed.,none
-645,Industrial and Produced Wastewater Treatment,ENCH645,none,none,none
-647,Thermal Recovery Methods,ENCH647,Petroleum Engineering 429, 523 or 621.,none,none
-649,Naturally Fractured Reservoirs,ENCH649,none,none,none
-653,Horizontal Wells for Petroleum Production,ENCH653,Petroleum Engineering 429 or Petroleum Engineering 523.,none,none
-657,Advanced Reservoir Engineering,ENCH657,Petroleum Engineering 429 or Petroleum Engineering 523.,none,none
-659,Advanced Cell and Tissue Engineering,ENCH659,Consent of the Department.,none,none
-661,Geostatistics for Reservoir Characterization,ENCH661,Petroleum Engineering 429 or Petroleum Engineering 523.,none,none
-665,Wastewater Issues for the Oil and Gas Industry,ENCH665,none,none,none
-677,Advanced Oil and Gas Engineering,ENCH677,Petroleum Engineering 429 or Petroleum Engineering 523.,none,none
-687,Petroleum Economics,ENCH687,none,Credit for Chemical Engineering 687 and Petroleum Engineering 626 will not be allowed.
-  ,none
-689,Drilling Advances, Modelling and Simulation,ENCH689,none,Credit for Chemical Engineering 689 and either Chemical Engineering 619.91 or Petroleum Engineering 627 will not be allowed.,none
-698,Reservoir Characterization for Field Development,ENCH698,Chemical Engineering 621, Geology 697 and Organizational Behaviour and Human Resources 789 and admission to the Master of Engineering with Reservoir Characterization Specialization.,Credit for Chemical Engineering 698 and either 619.95 and 619.96 will not be allowed.,none
-699,Special Project,ENCH699,Consent of the Department Head or Associate Head Graduate Studies.,Credit for Chemical Engineering 699 and 620 will not be allowed.,none
-701,Experimental Design and Error Analysis,ENCH701,none,Credit for more than one of Chemical Engineering 701, Environmental Engineering 621, Chemical Engineering 619.45 and 619.82 will not be allowed.,none
-703,Advanced Mathematical Methods in Engineering,ENCH703,none,Credit for Chemical Engineering 703 and 619.83 will not be allowed.,none
+315,Chemical Engineering Process Calculation,ENCH 315,none,none,Engineering 311.
+317,Materials Science for Chemical Engineers,ENCH 317,Engineering 202; and Mathematics 275 or Applied Mathematics 217.,none,Chemistry 357.
+331,Process Fluid Dynamics,ENCH 331,Engineering 201 and 202; and Mathematics 375 or Applied Mathematics 307.,none,none
+401,Partial Differential Equations in Transport Processes,ENCH 401,Chemical Engineering 331; and Mathematics 375 or Applied Mathematics 307.,none,Chemical Engineering 403.
+403,Heat Transfer,ENCH 403,Mathematics 375 or Applied Mathematics 307 and Chemical Engineering 331.,none,none
+405,Separation Processes I,ENCH 405,Chemical Engineering 403 and 427.,none,Chemical Engineering 421.
+407,Numerical Methods in Chemical and Oil & Gas Engineering,ENCH 407,Engineering 233; and Mathematics 375 or Applied Mathematics 307.,Credit for Chemical Engineering 407 and Engineering 407 will not be allowed.,none
+421,Chemical Engineering Kinetics,ENCH 421, Chemical Engineering 403 and 407.,none, Chemical Engineering 405.
+423,Chemical Engineering Process Development,ENCH 423,Chemical Engineering 315.,Credit for Chemical Engineering 423 and Petroleum Engineering 423 will not be allowed.,none
+427,Chemical Engineering Thermodynamics,ENCH 427, Engineering 311 and Chemical Engineering 315.,none,none
+429,Process Dynamics and Control,ENCH 429,Chemical Engineering 315 and Mathematics 375.,Credit for Chemical Engineering 429 and 529 will not be allowed.,Chemical Engineering 405.
+501,Transport Phenomena,ENCH 501,Chemical Engineering 401.,none,none
+503,Crude Oil Upgrading and Refining,ENCH 503,Third-year standing$ or higher$ in Chemical Engineering or Oil and Gas Engineering.,none,none
+505,Separation Processes II,ENCH 505,Chemical Engineering 405.,none,none
+510,Chemical Process Design and Simulation ,ENCH 510,Chemical Engineering 405$ 421$ 423$ 429 and admission to the Chemical Engineering program. ,none,Petroleum Engineering 511.
+511,Chemical Process Design I,ENCH 511,Chemical Engineering 405$ 421$ 423$ 429 and admission to the Chemical Engineering program.,Credit for Chemical Engineering 511 and Petroleum Engineering 511 will not be allowed.,none
+519,Special Topics,ENCH 519, Consent of the Department.,none,none
+530,Electrochemical Engineering,ENCH 530,Chemical Engineering 421 and 427.,Credit for Chemical Engineering 530 and any of 519.13$ 519.14 or 651 will not be allowed.,none
+531,Chemical Process Design II,ENCH 531, Chemical Engineering 511.,none,none
+535,Principles of Biochemical Engineering,ENCH 535,Chemistry 357.,none,none
+537,Computational Thermodynamics,ENCH 537,Chemical Engineering 427.,none,none
+539,Polymer Engineering,ENCH 539,Chemical Engineering 403.,none,Prerequisite or Corequisite: Chemistry 357.
+551,Chemical Engineering Laboratory,ENCH 551,Chemical Engineering 405.,Credit for Chemical Engineering 551 and Petroleum Engineering 551 will not be allowed.,Chemical Engineering 505.
+607,Natural Gas Processing Principles,ENCH 607,none,none,none
+609,Natural Gas Processing Technology,ENCH 609, Chemical Engineering 607 or an undergraduate degree in Chemical Engineering.,none,none
+613,Advanced Topics in Mass Transfer,ENCH 613,none,none,none
+615,Model Predictive Control,ENCH 615,none,none,none
+617,Modelling and Identification Advanced Control,ENCH 617,none,none,none
+619,Special Problems,ENCH 619,none,none,none
+620,Graduate Project,ENCH 620,Consent of the Department Head or Associate Head Graduate Studies.,Credit for Chemical Engineering 620 and 699 will not be allowed.,none
+621,Reservoir Simulation,ENCH 621,Petroleum Engineering 429 or 523.,none,none
+623,Chemical Reactor Design,ENCH 623,Chemical Engineering 421.,none,none
+625,Advanced Topics in Heat Transfer,ENCH 625,none,none,none
+627,Chemical Process Simulation,ENCH 627,none,none,none
+629,Secondary and Tertiary Recovery,ENCH 629,Petroleum Engineering 525.,none,none
+630,Electrochemical Engineering,ENCH 630,none,Credit for Chemical Engineering 630 and any of 519.13$ 519.14 or 651 will not be allowed.,none
+631,Advanced Topics in Fluid Mechanics,ENCH 631,none,none,none
+633,Chemical Thermodynamics,ENCH 633,Chemical Engineering 427.,none,none
+639,Applied Numerical Methods in Engineering,ENCH 639,none,none,none
+643,Air Pollution Control Engineering,ENCH 643,none,Credit for Chemical Engineering 643 and Environmental Engineering 641 will not be allowed.,none
+645,Industrial and Produced Wastewater Treatment,ENCH 645,none,none,none
+647,Thermal Recovery Methods,ENCH 647,Petroleum Engineering 429$ 523 or 621.,none,none
+649,Naturally Fractured Reservoirs,ENCH 649,none,none,none
+653,Horizontal Wells for Petroleum Production,ENCH 653,Petroleum Engineering 429 or Petroleum Engineering 523.,none,none
+657,Advanced Reservoir Engineering,ENCH 657,Petroleum Engineering 429 or Petroleum Engineering 523.,none,none
+659,Advanced Cell and Tissue Engineering,ENCH 659,Consent of the Department.,none,none
+661,Geostatistics for Reservoir Characterization,ENCH 661,Petroleum Engineering 429 or Petroleum Engineering 523.,none,none
+665,Wastewater Issues for the Oil and Gas Industry,ENCH 665,none,none,none
+677,Advanced Oil and Gas Engineering,ENCH 677,Petroleum Engineering 429 or Petroleum Engineering 523.,none,none
+687,Petroleum Economics,ENCH 687,none,Credit for Chemical Engineering 687 and Petroleum Engineering 626 will not be allowed.  ,none
+689,Drilling Advances$ Modelling and Simulation,ENCH 689,none,Credit for Chemical Engineering 689 and either Chemical Engineering 619.91 or Petroleum Engineering 627 will not be allowed.,none
+698,Reservoir Characterization for Field Development,ENCH 698,Chemical Engineering 621$ Geology 697 and Organizational Behaviour and Human Resources 789 and admission to the Master of Engineering with Reservoir Characterization Specialization.,Credit for Chemical Engineering 698 and either 619.95 and 619.96 will not be allowed.,none
+699,Special Project,ENCH 699,Consent of the Department Head or Associate Head Graduate Studies.,Credit for Chemical Engineering 699 and 620 will not be allowed.,none
+701,Experimental Design and Error Analysis,ENCH 701,none,Credit for more than one of Chemical Engineering 701$ Environmental Engineering 621$ Chemical Engineering 619.45 and 619.82 will not be allowed.,none
+703,Advanced Mathematical Methods in Engineering,ENCH 703,none,Credit for Chemical Engineering 703 and 619.83 will not be allowed.,none

@@ -1,90 +1,86 @@
-101,Computing Tools I,ENEL101,Engineering 233.,none,none
-102,Computing Tools II,ENEL102,Electrical Engineering 101 and Applied Mathematics 307 or Mathematics 375. ,none,none
-300,Electrical and Computer Engineering Professional Skills,ENEL300,Engineering 225, 233 and Electrical Engineering 353.,none,none
-301,Instrumentation, Sensors and Interfacing,ENEL301,Engineering 200 and 225; 3 units from Computer Engineering 335, Software Engineering for Engineers 337 or Geomatics Engineering 333; and admission to either the mechatronics or aerospace minor. ,none,none
-327,Signals and Transforms,ENEL327, Mathematics 375 or Applied Mathematics 307.,none,none
-343,Circuits II,ENEL343,Engineering 225; and Mathematics 375 or Applied Mathematics 307.,none,Electrical Engineering 327.
-353,Digital Circuits,ENEL353,Admission to Electrical Engineering or Software Engineering; or Computer Science 233 and Mathematics 271.,Credit for Electrical Engineering 353 and Computer Science 321 will not be allowed.,none
-361,Electronic Devices and Materials,ENEL361,Engineering 225; and Mathematics 277 or Applied Mathematics 219.,none,none
-400,Electrical Engineering Design and Technical Communications,ENEL400,Electrical Engineering 300, 327 and 343.,none,none
-419,Probability and Random Variables,ENEL419,Electrical Engineering 327.,Credit for Electrical Engineering 419 and either Engineering 319 or Biomedical Engineering 319 will not be allowed.,none
-441,Control Systems I,ENEL441, Electrical Engineering 327 and 343.,none,none
-453,Digital Systems Design,ENEL453,Electrical Engineering 353 and Engineering 225.,none,none
-469,Analog Electronic Circuits,ENEL469, Electrical Engineering 361.,none,none
-471,Introduction to Communications Systems and Networks,ENEL471, Electrical Engineering 327.,none,none
-475,Electromagnetic Fields and Applications,ENEL475, Physics 259 and Mathematics 375 or Applied Mathematics 307.,none,none
-476,Electromagnetic Waves and Applications,ENEL476, Electrical Engineering 475.,none,none
-487,Electrical Engineering Energy Systems,ENEL487,Engineering 225 or Energy Engineering 425.,none,none
-500,Computer, Electrical, and Software Engineering Team Design,ENEL500,Fourth-year standing or above.,Credit for Electrical Engineering 500 and either 583 or 589 will not be allowed.,none
-503,Computer Vision,ENEL503,Electrical Engineering 327; and 3 units from Computer Engineering 335, 339 or Software Engineering for Engineers 337.,none,none
-514,Introduction to Nanotechnology,ENEL514,Electrical Engineering 361.,none,none
-519,Special Topics in Electrical Engineering,ENEL519, Consent of the Department.,none,none
-525,Machine Learning for Engineers,ENEL525, Electrical Engineering 327.,Credit for Electrical Engineering 525 and either Software Engineering for Engineers 411 or 544 will not be allowed.,none
-529,Wireless Communications Systems,ENEL529, Electrical Engineering 471; and Engineering 319 or Electrical Engineering 419.,none,none
-541,Control Systems II,ENEL541, Electrical Engineering 441 or Mechanical Engineering 585,,none,none
-559,Analog Filter Design,ENEL559, Electrical Engineering 469 and 471.,none,none
-562,Photovoltaic Systems Engineering,ENEL562,Electrical Engineering 361.,none,none
-563,Biomedical Signal Analysis,ENEL563,Electrical Engineering 327.,none,none
-565,Digital Integrated Electronics,ENEL565, Computer Engineering 467.,none,none
-567,CMOS Analog Circuit Design,ENEL567,Electrical Engineering 469 and Computer Engineering 467.,Credit for Electrical Engineering 567 and 519.47 will not be allowed.,none
-569,Electronic Systems and Applications,ENEL569, Electrical Engineering 469.,none,none
-571,Digital Communications,ENEL571,Electrical Engineering 471; and Engineering 319 or Electrical Engineering 419.,none,none
-573,Computer Networks,ENEL573,Engineering 319 or Electrical Engineering 419.,Credit for Computer Science 441 and Electrical Engineering 573 will not be allowed.,none
-574,Microwave Engineering ,ENEL574,Electrical Engineering 476.,Credit for Electrical Engineering 574 and 519.49 will not be allowed.,none
-575,Radio-frequency and Microwave Passive Circuits,ENEL575, Electrical Engineering 476.,none,none
-582,Modelling and Control of Electric Machines and Drives,ENEL582,Engineering 225.,none,none
-584,Electrical Power Systems in Commercial and Institutional Buildings,ENEL584,Electrical Engineering 487.,Credit for Electrical Engineering 584 and 519.53 will not be allowed.,none
-585,Introduction to Power Electronics,ENEL585,Electrical Engineering 469.,none,none
-586,Power System Protection,ENEL586,Electrical Engineering 487.,Credit for Electrical Engineering 586 and 519.50 will not be allowed.,none
-587,Power Systems Analysis,ENEL587, Electrical Engineering 487.,none,none
-591,Individual Engineering Design Project I,ENEL591,Consent of the project supervisor and course co-ordinator(s).,none,none
-592,Undergraduate Research Thesis I,ENEL592,Admission to Electrical or Software Engineering and consent of the project supervisor and course co-ordinator(s).  ,none,none
-593,Digital Filters,ENEL593, Electrical Engineering 327.,none,none
-594,Undergraduate Research Thesis II,ENEL594,Electrical Engineering 592, admission to Electrical or Software Engineering and consent of the project supervisor and course co-ordinator(s).,none,none
-597,Power Systems Operation and Markets,ENEL597,Electrical Engineering 487; and 489 or 587.,none,none
-599,Individual Engineering Design Project II,ENEL599, Electrical Engineering 591 and consent of the project supervisor and course co-ordinator(s).,none,none
-601,Advanced Power System Analysis,ENEL601,Electrical Engineering 487 or consent of the Department.,none,none
-602,Virtual Environments and Applications,ENEL602,none,Credit for Electrical Engineering 604 and 619.38 will not be allowed.   ,none
-603,Rotating Machines,ENEL603,none,none,none
-604,System Design of Wireless Transceivers,ENEL604,Electrical Engineering 327 and 471.,Credit for Electrical Engineering 604 and 619.38 will not be allowed.,none
-606,Optical Instrumentation,ENEL606,none,Credit for Electrical Engineering 606 and 619.68 will not be allowed.,none
-609,Special Topics,ENEL609,none,none,none
-610,Biometric Technologies and Systems,ENEL610,none,Credit for Electrical Engineering 610 and Electrical Engineering 619.76 will not be allowed.,none
-613,Nonlinear Microwave Engineering,ENEL613,none,Credit for Electrical Engineering 613 and 619.22 will not be allowed.,none
-614,Embedded Sensor and Communication Design,ENEL614,none,Credit for Electrical Engineering 614 and 619.11 will not be allowed.,none
-615,Non-linear Control,ENEL615,none,Credit for Electrical Engineering 615 and 619.16 will not be allowed. 
-  ,none
-616,Micro/nano system design, fabrication and integration,ENEL616,none,Credit for Electrical Engineering 616 and 619.50 will not be allowed.
-  ,none
-617,RF Integrated Circuit Design,ENEL617,none,Credit for Electrical Engineering 617 and 619.31 will not be allowed.,none
-619,Special Problems,ENEL619,none,none,none
-623,Biomedical Systems and Applications,ENEL623,Consent of the Department.,none,none
-625,Estimation Theory,ENEL625,none,none,none
-627,Antennas,ENEL627,none,none,none
-629,Advanced Logic Design of Electronic and Nanoelectronic Devices,ENEL629,none,none,none
-631,System Identification and Parameter Estimation,ENEL631, Electrical Engineering 649.,none,none
-633,Wireless Networks,ENEL633,none,none,none
-635,Cryptography and Number Theory with Applications ,ENEL635,none,Credit for Electrical Engineering 635 and 619.87 will not be allowed.,none
-637,Arithmetic Techniques with DSP Applications ,ENEL637,none,Credit for Electrical Engineering 637 and 619.88 will not be allowed.,none
-641,Optimization for Engineers,ENEL641,none,Credit for Electrical Engineering 641 and 619.05 will not be allowed.,none
-645,Data Mining and Machine Learning,ENEL645,none,Credit for Electrical Engineering 645 and 619.51 will not be allowed.
-  ,none
-647,Analog Integrated Circuit Design,ENEL647,none,none,none
-649,Random Variables and Stochastic Processes,ENEL649,none,Credit for Electrical Engineering 649 and 619.22 will not be allowed.,none
-651,Resource Management for Wireless Networks,ENEL651,none,Credit for Electrical Engineering 651 and 619.04 will not be allowed.,none
-653,Theory and Practice Advanced DSP Processor Architecture,ENEL653,none,Credit for Electrical Engineering 653 and 619.23 will not be allowed.
-  ,none
-659,Active-RC and Switched-Capacitor Filter Design,ENEL659,none,none,none
-661,Grid-Connected Inverters for Alternative Energy Systems,ENEL661,none,Credit for Electrical Engineering 661 and 619.18 will not be allowed.,none
-663,Numerical Electromagnetic Field Computation,ENEL663,none,Credit for Electrical Engineering 663 and 619.09 will not be allowed.,none
-667,Intelligent Control,ENEL667,none,Credit for Electrical Engineering 667 and 619.25 will not be allowed.   ,none
-671,Adaptive Signal Processing,ENEL671,none,none,none
-675,Digital Communications,ENEL675,Electrical Engineering 571.,none,none
-683,Algorithms for VLSI Physical Design Automation,ENEL683,none,Credit for Electrical Engineering 683 and 619.19 will not be allowed.,none
-685,Software Defined Radio Systems,ENEL685,none,Credit for Electrical Engineering 641 and 619.64 will not be allowed.,none
-687,Switch Mode Power Converters,ENEL687,none,none,none
-691,Integrated Micro and Nanotechnology Sensory Systems,ENEL691,none,Credit for Electrical Engineering 691 and 619.26 will not be allowed.,none
-693,Restructured Electricity Markets,ENEL693,Electrical Engineering 587 or 601 or consent of the Department.,none,none
-695,Applied Mathematics for Electrical Engineers,ENEL695,none,Credit for Electrical Engineering 695 and either 519.42 or 619.95 will not be allowed.,none
-697,Digital Image Processing,ENEL697, Electrical Engineering 327.,none,none
-698,Graduate Project,ENEL698,Admission to the MEng course-based program in Electrical and Computer Engineering.,none,none
+101,Computing Tools I,ENEL 101,Engineering 233.,none,none
+102,Computing Tools II,ENEL 102,Electrical Engineering 101 and Applied Mathematics 307 or Mathematics 375. ,none,none
+300,Electrical and Computer Engineering Professional Skills,ENEL 300,Engineering 225$ 233 and Electrical Engineering 353.,none,none
+301,Instrumentation$ Sensors and Interfacing,ENEL 301,Engineering 200 and 225; 3 units from Computer Engineering 335$ Software Engineering for Engineers 337 or Geomatics Engineering 333; and admission to either the mechatronics or aerospace minor. ,none,none
+327,Signals and Transforms,ENEL 327, Mathematics 375 or Applied Mathematics 307.,none,none
+343,Circuits II,ENEL 343,Engineering 225; and Mathematics 375 or Applied Mathematics 307.,none,Electrical Engineering 327.
+353,Digital Circuits,ENEL 353,Admission to Electrical Engineering or Software Engineering; or Computer Science 233 and Mathematics 271.,Credit for Electrical Engineering 353 and Computer Science 321 will not be allowed.,none
+361,Electronic Devices and Materials,ENEL 361,Engineering 225; and Mathematics 277 or Applied Mathematics 219.,none,none
+400,Electrical Engineering Design and Technical Communications,ENEL 400,Electrical Engineering 300$ 327 and 343.,none,none
+419,Probability and Random Variables,ENEL 419,Electrical Engineering 327.,Credit for Electrical Engineering 419 and either Engineering 319 or Biomedical Engineering 319 will not be allowed.,none
+441,Control Systems I,ENEL 441, Electrical Engineering 327 and 343.,none,none
+453,Digital Systems Design,ENEL 453,Electrical Engineering 353 and Engineering 225.,none,none
+469,Analog Electronic Circuits,ENEL 469, Electrical Engineering 361.,none,none
+471,Introduction to Communications Systems and Networks,ENEL 471, Electrical Engineering 327.,none,none
+475,Electromagnetic Fields and Applications,ENEL 475, Physics 259 and Mathematics 375 or Applied Mathematics 307.,none,none
+476,Electromagnetic Waves and Applications,ENEL 476, Electrical Engineering 475.,none,none
+487,Electrical Engineering Energy Systems,ENEL 487,Engineering 225 or Energy Engineering 425.,none,none
+500,Computer$ Electrical$ and Software Engineering Team Design,ENEL 500,Fourth-year standing or above.,Credit for Electrical Engineering 500 and either 583 or 589 will not be allowed.,none
+503,Computer Vision,ENEL 503,Electrical Engineering 327; and 3 units from Computer Engineering 335$ 339 or Software Engineering for Engineers 337.,none,none
+514,Introduction to Nanotechnology,ENEL 514,Electrical Engineering 361.,none,none
+519,Special Topics in Electrical Engineering,ENEL 519, Consent of the Department.,none,none
+525,Machine Learning for Engineers,ENEL 525, Electrical Engineering 327.,Credit for Electrical Engineering 525 and either Software Engineering for Engineers 411 or 544 will not be allowed.,none
+529,Wireless Communications Systems,ENEL 529, Electrical Engineering 471; and Engineering 319 or Electrical Engineering 419.,none,none
+541,Control Systems II,ENEL 541, Electrical Engineering 441 or Mechanical Engineering 585$,none,none
+559,Analog Filter Design,ENEL 559, Electrical Engineering 469 and 471.,none,none
+562,Photovoltaic Systems Engineering,ENEL 562,Electrical Engineering 361.,none,none
+563,Biomedical Signal Analysis,ENEL 563,Electrical Engineering 327.,none,none
+565,Digital Integrated Electronics,ENEL 565, Computer Engineering 467.,none,none
+567,CMOS Analog Circuit Design,ENEL 567,Electrical Engineering 469 and Computer Engineering 467.,Credit for Electrical Engineering 567 and 519.47 will not be allowed.,none
+569,Electronic Systems and Applications,ENEL 569, Electrical Engineering 469.,none,none
+571,Digital Communications,ENEL 571,Electrical Engineering 471; and Engineering 319 or Electrical Engineering 419.,none,none
+573,Computer Networks,ENEL 573,Engineering 319 or Electrical Engineering 419.,Credit for Computer Science 441 and Electrical Engineering 573 will not be allowed.,none
+574,Microwave Engineering ,ENEL 574,Electrical Engineering 476.,Credit for Electrical Engineering 574 and 519.49 will not be allowed.,none
+575,Radio-frequency and Microwave Passive Circuits,ENEL 575, Electrical Engineering 476.,none,none
+582,Modelling and Control of Electric Machines and Drives,ENEL 582,Engineering 225.,none,none
+584,Electrical Power Systems in Commercial and Institutional Buildings,ENEL 584,Electrical Engineering 487.,Credit for Electrical Engineering 584 and 519.53 will not be allowed.,none
+585,Introduction to Power Electronics,ENEL 585,Electrical Engineering 469.,none,none
+586,Power System Protection,ENEL 586,Electrical Engineering 487.,Credit for Electrical Engineering 586 and 519.50 will not be allowed.,none
+587,Power Systems Analysis,ENEL 587, Electrical Engineering 487.,none,none
+591,Individual Engineering Design Project I,ENEL 591,Consent of the project supervisor and course co-ordinator(s).,none,none
+592,Undergraduate Research Thesis I,ENEL 592,Admission to Electrical or Software Engineering and consent of the project supervisor and course co-ordinator(s).  ,none,none
+593,Digital Filters,ENEL 593, Electrical Engineering 327.,none,none
+594,Undergraduate Research Thesis II,ENEL 594,Electrical Engineering 592$ admission to Electrical or Software Engineering and consent of the project supervisor and course co-ordinator(s).,none,none
+597,Power Systems Operation and Markets,ENEL 597,Electrical Engineering 487; and 489 or 587.,none,none
+599,Individual Engineering Design Project II,ENEL 599, Electrical Engineering 591 and consent of the project supervisor and course co-ordinator(s).,none,none
+601,Advanced Power System Analysis,ENEL 601,Electrical Engineering 487 or consent of the Department.,none,none
+602,Virtual Environments and Applications,ENEL 602,none,Credit for Electrical Engineering 604 and 619.38 will not be allowed.   ,none
+603,Rotating Machines,ENEL 603,none,none,none
+604,System Design of Wireless Transceivers,ENEL 604,Electrical Engineering 327 and 471.,Credit for Electrical Engineering 604 and 619.38 will not be allowed.,none
+606,Optical Instrumentation,ENEL 606,none,Credit for Electrical Engineering 606 and 619.68 will not be allowed.,none
+609,Special Topics,ENEL 609,none,none,none
+610,Biometric Technologies and Systems,ENEL 610,none,Credit for Electrical Engineering 610 and Electrical Engineering 619.76 will not be allowed.,none
+613,Nonlinear Microwave Engineering,ENEL 613,none,Credit for Electrical Engineering 613 and 619.22 will not be allowed.,none
+614,Embedded Sensor and Communication Design,ENEL 614,none,Credit for Electrical Engineering 614 and 619.11 will not be allowed.,none
+615,Non-linear Control,ENEL 615,none,Credit for Electrical Engineering 615 and 619.16 will not be allowed.   ,none
+616,Micro/nano system design$ fabrication and integration,ENEL 616,none,Credit for Electrical Engineering 616 and 619.50 will not be allowed.  ,none
+617,RF Integrated Circuit Design,ENEL 617,none,Credit for Electrical Engineering 617 and 619.31 will not be allowed.,none
+619,Special Problems,ENEL 619,none,none,none
+623,Biomedical Systems and Applications,ENEL 623,Consent of the Department.,none,none
+625,Estimation Theory,ENEL 625,none,none,none
+627,Antennas,ENEL 627,none,none,none
+629,Advanced Logic Design of Electronic and Nanoelectronic Devices,ENEL 629,none,none,none
+631,System Identification and Parameter Estimation,ENEL 631, Electrical Engineering 649.,none,none
+633,Wireless Networks,ENEL 633,none,none,none
+635,Cryptography and Number Theory with Applications ,ENEL 635,none,Credit for Electrical Engineering 635 and 619.87 will not be allowed.,none
+637,Arithmetic Techniques with DSP Applications ,ENEL 637,none,Credit for Electrical Engineering 637 and 619.88 will not be allowed.,none
+641,Optimization for Engineers,ENEL 641,none,Credit for Electrical Engineering 641 and 619.05 will not be allowed.,none
+645,Data Mining and Machine Learning,ENEL 645,none,Credit for Electrical Engineering 645 and 619.51 will not be allowed.  ,none
+647,Analog Integrated Circuit Design,ENEL 647,none,none,none
+649,Random Variables and Stochastic Processes,ENEL 649,none,Credit for Electrical Engineering 649 and 619.22 will not be allowed.,none
+651,Resource Management for Wireless Networks,ENEL 651,none,Credit for Electrical Engineering 651 and 619.04 will not be allowed.,none
+653,Theory and Practice Advanced DSP Processor Architecture,ENEL 653,none,Credit for Electrical Engineering 653 and 619.23 will not be allowed.  ,none
+659,Active-RC and Switched-Capacitor Filter Design,ENEL 659,none,none,none
+661,Grid-Connected Inverters for Alternative Energy Systems,ENEL 661,none,Credit for Electrical Engineering 661 and 619.18 will not be allowed.,none
+663,Numerical Electromagnetic Field Computation,ENEL 663,none,Credit for Electrical Engineering 663 and 619.09 will not be allowed.,none
+667,Intelligent Control,ENEL 667,none,Credit for Electrical Engineering 667 and 619.25 will not be allowed.   ,none
+671,Adaptive Signal Processing,ENEL 671,none,none,none
+675,Digital Communications,ENEL 675,Electrical Engineering 571.,none,none
+683,Algorithms for VLSI Physical Design Automation,ENEL 683,none,Credit for Electrical Engineering 683 and 619.19 will not be allowed.,none
+685,Software Defined Radio Systems,ENEL 685,none,Credit for Electrical Engineering 641 and 619.64 will not be allowed.,none
+687,Switch Mode Power Converters,ENEL 687,none,none,none
+691,Integrated Micro and Nanotechnology Sensory Systems,ENEL 691,none,Credit for Electrical Engineering 691 and 619.26 will not be allowed.,none
+693,Restructured Electricity Markets,ENEL 693,Electrical Engineering 587 or 601 or consent of the Department.,none,none
+695,Applied Mathematics for Electrical Engineers,ENEL 695,none,Credit for Electrical Engineering 695 and either 519.42 or 619.95 will not be allowed.,none
+697,Digital Image Processing,ENEL 697, Electrical Engineering 327.,none,none
+698,Graduate Project,ENEL 698,Admission to the MEng course-based program in Electrical and Computer Engineering.,none,none

@@ -1,26 +1,24 @@
-201,Thinking with Data ,DATA201,none,none,none
-211,Programming with Data ,DATA211,Data Science 201.,Credit for Data Science 211 and any one of Computer Science 215, 217, 231, 235, Computer Engineering 339 or Engineering 233 will not be allowed.,none
-305,Computational Statistical Modelling ,DATA305,Data Science 201; and 3 units from Data Science 211, Computer Science 217, 231 or 235; and 3 units from Statistics 205, 217, 327, Biology 315, Economics 395, Political Science 399, Psychology 300, Sociology 311, Engineering 319 or Linguistics 560.,Credit for Data Science 305 and Statistics 323 will not be allowed.,none
-311,Data Processing and Storage,DATA311,Data Science 201; and 3 units from Data Science 211, Computer Science 217, 231, 235 or Engineering 233. ,Credit for Data Science 311 and either Computer Science 319 or 331 will not be allowed.,none
-501,Data Science Capstone,DATA501,Data Science 311 or Computer Science 471; and 3 units from Data Science 305, Statistics 323, Biology 315, Sociology 315, Economics 395, Linguistics 560, Psychology 301 or 312.,none,none
-601,Working with Data and Visualization,DATA601,Admission to the Graduate Certificate in Fundamental Data Science and Analytics, or the Graduate Diploma in Data Science and Analytics, or the Master of Data Science and Analytics.,none,none
-602,Statistical Data Analysis,DATA602,Admission to the Graduate Certificate in Fundamental Data Science and Analytics, or the Graduate Diploma in Data Science and Analytics, or the Master of Data Science and Analytics.,none,none
-603,Statistical Modelling with Data,DATA603,Data Science 602 and admission to the Graduate Certificate in Fundamental Data Science and Analytics or the Graduate Diploma in Data Science and Analytics, or the Master of Data Science and Analytics.,none,none
-604,Big Data Management,DATA604,Data Science 601 and admission to the Graduate Certificate in Fundamental Data Science and Analytics or the Graduate Diploma in Data Science and Analytics, or the Master of Data Science and Analytics.,none,none
-605,Actionable Visualization and Analytics,DATA605,Data Science 601, 602, 603, 604 and admission to the Graduate Diploma in Data Science and Analytics, or the Master of Data Science and Analytics.,none,none
-606,Statistical Methods in Data Science,DATA606,Data Science 601, 602, 603, 604 and admission to the Graduate Diploma in Data Science and Analytics, or the Master of Data Science and Analytics.,none,none
-607,Statistical and Machine Learning,DATA607,Data Science 601, 602, 603, 604 and admission to the Graduate Diploma in Data Science and Analytics, or the Master of Data Science and Analytics.
-      ,none,none
-608,Developing Big Data Applications,DATA608,Data Science 601, 602, 603, 604 and admission to the Graduate Diploma in Data Science and Analytics, or the Master of Data Science and Analytics.,none,none
-611,Predictive Analytics,DATA611,Data Science 601, 602, 603, 604 and admission to the Graduate Diploma in Data Science and Analytics, or the Master of Data Science and Analytics.,none,none
-612,Decision Analytics,DATA612,Data Science 601, 602, 603, 604 and admission to the Graduate Diploma in Data Science and Analytics, or the Master of Data Science and Analytics.,none,none
-613,Introductory Data Analytics,DATA613,Data Science 601, 602, 603, 604 and admission to the Graduate Diploma in Data Science and Analytics, or the Master of Data Science and Analytics.,none,none
-614,Advanced Data Analytics,DATA614,Data Science 601, 602, 603, 604 and admission to the Graduate Diploma in Data Science and Analytics.,none,none
-621,Advanced Statistical Modelling,DATA621,Data Science 601, 602, 603, 604 and admission to the Graduate Diploma in Data Science and Analytics, or the Master of Data Science and Analytics.,none,none
-622,Health Data Science,DATA622,Data Science 601, 602, 603, 604 and admission to the Graduate Diploma in Data Science and Analytics, or the Master of Data Science and Analytics.
-      ,none,none
-623,Big Data in Health,DATA623,Data Science 601, 602, 603, 604 and admission to the Graduate Diploma in Data Science and Analytics, or the Master of Data Science and Analytics.,none,none
-624,Advanced Exploration and Visualization in Health,DATA624,Data Science 601, 602, 603, 604 and admission to the Graduate Diploma in Data Science and Analytics, or the Master of Data Science and Analytics.,none,none
-691,Integrated Topics in Data Science and Analytics ,DATA691,Admission to the Master of Data Science and Analytics and 24 units in 600-level Data Science courses.,none,none
-693,Professional Internship in Data Science and Analytics,DATA693,Data Science 691.,Credit for Data Science 693 and 695 will not be allowed.,none
-695,Research Internship in Data Science and Analytics,DATA695,Data Science 691.,Credit for Data Science 695 and 693 will not be allowed.,none
+201,Thinking with Data ,DATA 201,none,none,none
+211,Programming with Data ,DATA 211,Data Science 201.,Credit for Data Science 211 and any one of Computer Science 215$ 217$ 231$ 235$ Computer Engineering 339 or Engineering 233 will not be allowed.,none
+305,Computational Statistical Modelling ,DATA 305,Data Science 201; and 3 units from Data Science 211$ Computer Science 217$ 231 or 235; and 3 units from Statistics 205$ 217$ 327$ Biology 315$ Economics 395$ Political Science 399$ Psychology 300$ Sociology 311$ Engineering 319 or Linguistics 560.,Credit for Data Science 305 and Statistics 323 will not be allowed.,none
+311,Data Processing and Storage,DATA 311,Data Science 201; and 3 units from Data Science 211$ Computer Science 217$ 231$ 235 or Engineering 233. ,Credit for Data Science 311 and either Computer Science 319 or 331 will not be allowed.,none
+501,Data Science Capstone,DATA 501,Data Science 311 or Computer Science 471; and 3 units from Data Science 305$ Statistics 323$ Biology 315$ Sociology 315$ Economics 395$ Linguistics 560$ Psychology 301 or 312.,none,none
+601,Working with Data and Visualization,DATA 601,Admission to the Graduate Certificate in Fundamental Data Science and Analytics$ or the Graduate Diploma in Data Science and Analytics$ or the Master of Data Science and Analytics.,none,none
+602,Statistical Data Analysis,DATA 602,Admission to the Graduate Certificate in Fundamental Data Science and Analytics$ or the Graduate Diploma in Data Science and Analytics$ or the Master of Data Science and Analytics.,none,none
+603,Statistical Modelling with Data,DATA 603,Data Science 602 and admission to the Graduate Certificate in Fundamental Data Science and Analytics or the Graduate Diploma in Data Science and Analytics$ or the Master of Data Science and Analytics.,none,none
+604,Big Data Management,DATA 604,Data Science 601 and admission to the Graduate Certificate in Fundamental Data Science and Analytics or the Graduate Diploma in Data Science and Analytics$ or the Master of Data Science and Analytics.,none,none
+605,Actionable Visualization and Analytics,DATA 605,Data Science 601$ 602$ 603$ 604 and admission to the Graduate Diploma in Data Science and Analytics$ or the Master of Data Science and Analytics.,none,none
+606,Statistical Methods in Data Science,DATA 606,Data Science 601$ 602$ 603$ 604 and admission to the Graduate Diploma in Data Science and Analytics$ or the Master of Data Science and Analytics.,none,none
+607,Statistical and Machine Learning,DATA 607,Data Science 601$ 602$ 603$ 604 and admission to the Graduate Diploma in Data Science and Analytics$ or the Master of Data Science and Analytics.      ,none,none
+608,Developing Big Data Applications,DATA 608,Data Science 601$ 602$ 603$ 604 and admission to the Graduate Diploma in Data Science and Analytics$ or the Master of Data Science and Analytics.,none,none
+611,Predictive Analytics,DATA 611,Data Science 601$ 602$ 603$ 604 and admission to the Graduate Diploma in Data Science and Analytics$ or the Master of Data Science and Analytics.,none,none
+612,Decision Analytics,DATA 612,Data Science 601$ 602$ 603$ 604 and admission to the Graduate Diploma in Data Science and Analytics$ or the Master of Data Science and Analytics.,none,none
+613,Introductory Data Analytics,DATA 613,Data Science 601$ 602$ 603$ 604 and admission to the Graduate Diploma in Data Science and Analytics$ or the Master of Data Science and Analytics.,none,none
+614,Advanced Data Analytics,DATA 614,Data Science 601$ 602$ 603$ 604 and admission to the Graduate Diploma in Data Science and Analytics.,none,none
+621,Advanced Statistical Modelling,DATA 621,Data Science 601$ 602$ 603$ 604 and admission to the Graduate Diploma in Data Science and Analytics$ or the Master of Data Science and Analytics.,none,none
+622,Health Data Science,DATA 622,Data Science 601$ 602$ 603$ 604 and admission to the Graduate Diploma in Data Science and Analytics$ or the Master of Data Science and Analytics.      ,none,none
+623,Big Data in Health,DATA 623,Data Science 601$ 602$ 603$ 604 and admission to the Graduate Diploma in Data Science and Analytics$ or the Master of Data Science and Analytics.,none,none
+624,Advanced Exploration and Visualization in Health,DATA 624,Data Science 601$ 602$ 603$ 604 and admission to the Graduate Diploma in Data Science and Analytics$ or the Master of Data Science and Analytics.,none,none
+691,Integrated Topics in Data Science and Analytics ,DATA 691,Admission to the Master of Data Science and Analytics and 24 units in 600-level Data Science courses.,none,none
+693,Professional Internship in Data Science and Analytics,DATA 693,Data Science 691.,Credit for Data Science 693 and 695 will not be allowed.,none
+695,Research Internship in Data Science and Analytics,DATA 695,Data Science 691.,Credit for Data Science 695 and 693 will not be allowed.,none

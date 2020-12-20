@@ -1,58 +1,36 @@
-601,Business Fundamentals,MDGE601,Admission to the Master of Biomedical Technology program or consent of the Program Director.
- ,none,none
-602,Intellectual Property and Licensing,MDGE602,Admission to the Master of Biomedical Technology program or consent of the program.,none,none
-603,Project Management and Corporate Leadership,MDGE603,Admission to the Master of Biomedical Technology program or consent of the program.,none,none
-604,Finances in Biomedical Technology,MDGE604,Admission to the Master of Biomedical Technology program or consent of the program.,none,none
-605,Regulatory Affairs,MDGE605,Admission to the Master of Biomedical Technology program or consent of the program.,none,none
-606,Clinical Trials,MDGE606,Admission to the Master of Biomedical Technology program or consent of the program.,none,none
-607,Communication, Marketing and Sales,MDGE607,Admission to the Master of Biomedical Technology program or consent of the program.,none,none
-608,Business Case Studies,MDGE608,Admission to the Master of Biomedical Technology program or consent of the program.,none,none
-609,Business Integration,MDGE609,Admission to the Master of Biomedical Technology program or consent of the program.,none,none
-620,The Essentials of Cancer Science ,MDGE620,Consent of the program.,none,none
-622,Principles and Applications of Proteomics,MDGE622,Consent of the program.
-    ,none,none
-623,Tumour Immunology and Immunotherapy,MDGE623,Consent of the program.
-   ,none,none
-624,Cell Cycle Regulation in Cancer and Aging,MDGE624,Consent of the program.
-   ,none,none
-625,Epigenetics and Chromatin Dynamics,MDGE625,Consent of the program.
-   ,none,none
-626,DNA Damage Signalling and Repair,MDGE626,Consent of the program.
-  ,none,none
-628,Tumour Microenvironment Dynamics,MDGE628,Consent of the program.
-    ,none,none
-629,Molecular Cancer Signalling Networks,MDGE629,Consent of the program.
-    ,none,none
-630,Anti-Cancer Therapeutics and Clinical Trials,MDGE630,Consent of the program.
-    ,none,none
-631,Fundamentals of Brain Development, Physiology and Disease,MDGE631,Consent of the program.
-    ,Credit for Medical Graduate Education 631 and Medical Science 619.01 will not be allowed.
-    ,none
-632,Principles of Light Microscopy,MDGE632,Consent of the program.
-   ,none,none
-633,Advanced Techniques in Optical Microscopy,MDGE633,Medical Graduate Education 632 or consent of the program.
-   ,none,none
-634,Digital Imaging for Optical Microscopy,MDGE634,Medical Graduate Education 632 or consent of the program.
-   ,none,none
-635,Hereditary and Environmental Causes of Cancer,MDGE635,Consent of the program.,none,none
-651,Microbial Virulence Factors,MDGE651,Medical Science 611, Cellular, Molecular and Microbial Biology 431, or consent of the program.
-   ,none,none
-652,Microbial Interactions at Epithelial Surfaces,MDGE652,Medical Science 611, Cellular, Molecular and Microbial Biology 431, or consent of the program.
-  ,none,none
-653,Antimicrobials and Resistance,MDGE653,Medical Science 611, Cellular, Molecular and Microbial Biology 431, or consent of the program.
-  ,none,none
-654,Infection and Immunity,MDGE654,Consent of the program.
-  ,none,none
-655,Autoimmunity and Immunodeficiency,MDGE655,Consent of the program.
-  ,none,none
-721,Biochemistry and Molecular Biology: Scientific Method, Data Analysis and Communication,MDGE721,Consent of the program.,none,none
-722,Nucleic Acids, DNA Replication, Transcription and RNA Signalling ,MDGE722,Consent of the program.,none,none
-723,Translation, Protein Folding and Post-Translational Modification ,MDGE723,Consent of the program.,none,none
-724,Introduction to Bioinformatics Resources ,MDGE724,Consent of the program.
- ,none,none
-725,Applied Genomics ,MDGE725,Consent of the program.,none,none
-726,Applied Structural Biology ,MDGE726,Consent of the program.,none,none
-755,Directed Studies,MDGE755,Consent of the program.
-  ,none,none
-799,Topics in Medical Sciences,MDGE799,Consent of the program.
-  ,none,none
+601,Business Fundamentals,MDGE 601,Admission to the Master of Biomedical Technology program or consent of the Program Director. ,none,none
+602,Intellectual Property and Licensing,MDGE 602,Admission to the Master of Biomedical Technology program or consent of the program.,none,none
+603,Project Management and Corporate Leadership,MDGE 603,Admission to the Master of Biomedical Technology program or consent of the program.,none,none
+604,Finances in Biomedical Technology,MDGE 604,Admission to the Master of Biomedical Technology program or consent of the program.,none,none
+605,Regulatory Affairs,MDGE 605,Admission to the Master of Biomedical Technology program or consent of the program.,none,none
+606,Clinical Trials,MDGE 606,Admission to the Master of Biomedical Technology program or consent of the program.,none,none
+607,Communication$ Marketing and Sales,MDGE 607,Admission to the Master of Biomedical Technology program or consent of the program.,none,none
+608,Business Case Studies,MDGE 608,Admission to the Master of Biomedical Technology program or consent of the program.,none,none
+609,Business Integration,MDGE 609,Admission to the Master of Biomedical Technology program or consent of the program.,none,none
+620,The Essentials of Cancer Science ,MDGE 620,Consent of the program.,none,none
+622,Principles and Applications of Proteomics,MDGE 622,Consent of the program.    ,none,none
+623,Tumour Immunology and Immunotherapy,MDGE 623,Consent of the program.   ,none,none
+624,Cell Cycle Regulation in Cancer and Aging,MDGE 624,Consent of the program.   ,none,none
+625,Epigenetics and Chromatin Dynamics,MDGE 625,Consent of the program.   ,none,none
+626,DNA Damage Signalling and Repair,MDGE 626,Consent of the program.  ,none,none
+628,Tumour Microenvironment Dynamics,MDGE 628,Consent of the program.    ,none,none
+629,Molecular Cancer Signalling Networks,MDGE 629,Consent of the program.    ,none,none
+630,Anti-Cancer Therapeutics and Clinical Trials,MDGE 630,Consent of the program.    ,none,none
+631,Fundamentals of Brain Development$ Physiology and Disease,MDGE 631,Consent of the program.    ,Credit for Medical Graduate Education 631 and Medical Science 619.01 will not be allowed.    ,none
+632,Principles of Light Microscopy,MDGE 632,Consent of the program.   ,none,none
+633,Advanced Techniques in Optical Microscopy,MDGE 633,Medical Graduate Education 632 or consent of the program.   ,none,none
+634,Digital Imaging for Optical Microscopy,MDGE 634,Medical Graduate Education 632 or consent of the program.   ,none,none
+635,Hereditary and Environmental Causes of Cancer,MDGE 635,Consent of the program.,none,none
+651,Microbial Virulence Factors,MDGE 651,Medical Science 611$ Cellular$ Molecular and Microbial Biology 431$ or consent of the program.   ,none,none
+652,Microbial Interactions at Epithelial Surfaces,MDGE 652,Medical Science 611$ Cellular$ Molecular and Microbial Biology 431$ or consent of the program.  ,none,none
+653,Antimicrobials and Resistance,MDGE 653,Medical Science 611$ Cellular$ Molecular and Microbial Biology 431$ or consent of the program.  ,none,none
+654,Infection and Immunity,MDGE 654,Consent of the program.  ,none,none
+655,Autoimmunity and Immunodeficiency,MDGE 655,Consent of the program.  ,none,none
+721,Biochemistry and Molecular Biology: Scientific Method$ Data Analysis and Communication,MDGE 721,Consent of the program.,none,none
+722,Nucleic Acids$ DNA Replication$ Transcription and RNA Signalling ,MDGE 722,Consent of the program.,none,none
+723,Translation$ Protein Folding and Post-Translational Modification ,MDGE 723,Consent of the program.,none,none
+724,Introduction to Bioinformatics Resources ,MDGE 724,Consent of the program. ,none,none
+725,Applied Genomics ,MDGE 725,Consent of the program.,none,none
+726,Applied Structural Biology ,MDGE 726,Consent of the program.,none,none
+755,Directed Studies,MDGE 755,Consent of the program.  ,none,none
+799,Topics in Medical Sciences,MDGE 799,Consent of the program.  ,none,none

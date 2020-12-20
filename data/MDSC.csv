@@ -1,98 +1,93 @@
-201,Applied Tools in Bioinformatics ,MDSC201,Admission to the Bioinformatics major of BHSc Honours program.,none,none
-203,Developing Health Research Literacy I,MDSC203, Admission to the BHSc Honours program.,none,none
-205,Developing Health Research Literacy II,MDSC205, Medical Science 203 and admission to the BHSc Honours program.,none,none
-301,Bioinformatics,MDSC301,6 units in Computer Science at the 300 level; or Medical Science 341 and 351; or 6 units in Biological Sciences at the 300 level.,Credit for Medical Science 301 and 401 will not be allowed.,none
-307,Science, Philosophy and Society,MDSC307, Second-year or higher standing in the BHSc Honours program.,none,none
-308,Interdisciplinary Research Approaches,MDSC308, Medical Science 205 and admission to the BHSc Honours program.,none,none
-309,Science and Politics ,MDSC309,Second-year or higher standing in the BHSc Honours program.,none,none
-321,Introduction to Immunology,MDSC321,Biology 241 and 243.,none,none
-341,Principles of Human Genetics,MDSC341, Biology 241; and 243 or 231; and admission to the BHSc Honours program.,Credit for Medical Science 341 and Biology 311 will not be allowed.,none
-351,Honours Cellular and Molecular Biology,MDSC351, Medical Science 341 and admission to the BHSc Honours program.,Credit for Medical Science 351 and Biology 331 will not be allowed.,none
-397,Independent Studies in Health Sciences,MDSC397,A maximum of 45 units and consent of the BHSc Honours program.,none,none
-402,Organismal Biology,MDSC402,Admission to the BHSc Honours program; and Biology 241; and 243 or 231; and Medical Science 351.,Credit for Medical Science 402 and 417 will not be allowed.
-      ,none
-403,Computation for Bioinformatics,MDSC403,Medical Science 301 or 401; and Statistics 321.,none,none
-404,Integrative Human Physiology,MDSC404,Admission to the BHSc Honours program. ,Credit for Medical Science 404 and any of Kinesiology 259, 260, 323, Zoology 461, 463 or Biology 305 will not be allowed.,none
-407,Statistics and Research Design in Health Sciences,MDSC407,Admission to the BHSc Honours program.,none,none
-408,Research Design in Molecular Biology and Bioinformatics,MDSC408, Medical Science 308 and admission to the BHSc Honours program.,none,none
-409,Brain and Society,MDSC409,Admission to the BHSc Honours program.,none,none
-415,Introduction to Epidemiology,MDSC415,Medical Science 308.,none,none
-417,Integrated Research Course I,MDSC417,Medical Science 308 and admission to the BHSc Honours program.,Credit for Medical Science 417 and 402 will not be allowed.,none
-419,Integrated Research Course II,MDSC419,Medical Science 308, the appropriate 417 course and admission to the BHSc Honours program.,Credit for Medical Science 419 and 402 will not be allowed.,none
-501,Principles and Mechanisms of Pharmacology,MDSC501,Admission to the BHSc Honours program; and Biochemistry 341 or 393; and Zoology 463 or Medical Science 404.,none,none
-503,Pharmacology of Organ Systems,MDSC503, Medical Science 501 (Biology 501).,none,none
-507,Special Problems in Medical Science,MDSC507, Consent of the BHSc Honours program.,none,none
-508,Honours Thesis and Research Communication,MDSC508,Admission to the BHSc Honours program; and Health and Society 408 or Medical Science 408; and a minimum cumulative 3.30 GPA.  ,none,none
-509,Proteomics,MDSC509, Biochemistry 443; and Medical Sciences 351 or Biology 331.,none,none
-515,Cellular Mechanisms of Disease,MDSC515, Biochemistry 341 or 393; and Biology 331 or Medical Science 351.,none,none
-517,Introduction to Biotechnology Business and Profession,MDSC517,Medical Science 351.,none,none
-519,Advanced Bioinformatics,MDSC519,Medical Science 301 or 401; and 3 units from Computer Science 217, 219, 231 or 233.,none,none
-521,Human Anatomy,MDSC521,Fourth-year standing in the BHSc Honours program.,none,none
-523,AI Applications in Health ,MDSC523,Medical Science 301 or 401; and 3 units from Computer Science 217, 219, 231 or 233.,none,none
-528,Independent Studies in Medical Science,MDSC528, Consent of the BHSc Honours program.,none,none
-535,Psychosocial Oncology,MDSC535,Consent of the instructor.,Credit for Medical Science 535 and 635 will not be allowed.,none
-541,Advanced Genetics I,MDSC541,Medical Science 341 or Biology 311.,none,none
-543,Advanced Genetics II,MDSC543, Medical Science 341 or Biology 311.,none,none
-545,Genomics,MDSC545,Medical Science 408 or Cellular, Molecular and Microbial Biology 413.,none,none
-561,Cancer Biology,MDSC561,Biochemistry 341 or 393; and Medical Science 341 or Biology 311; and Medical Science 351 or Biology 331; and Medical Science 408 or Cellular, Molecular and Microbial Biology 411.,none,none
-565,Advanced Topics in Microbial Pathogenesis and the Microbiome ,MDSC565,Cellular, Molecular and Microbial Biology 343 and 431.,none,none
-567,Advanced Topics in Immunology,MDSC567,Cellular, Molecular and Microbial Biology 527 or Medical Science 321.,none,none
-569,Advanced Topics in Physiology,MDSC569,Medical Science 404 or Zoology 463.  ,none,none
-603,Biology of Laboratory Animals,MDSC603, Consent of the Faculty.,none,none
-604,Integrative Human Physiology,MDSC604, Consent of the Faculty.,none,none
-605,Information Storage and Processing in Biological Systems,MDSC605, Consent of the Faculty.,none,none
-609,Gene Expression,MDSC609,Consent of the program. A strong background in undergraduate genetics and developmental biology is recommended.
-   ,none,none
-611,Medical Microbiology,MDSC611,Cellular, Molecular and Microbial Biology 343 or consent of the Faculty.
-     ,none,none
-613,Advanced Studies in Microbiology,MDSC613, Medical Science 612 or Cellular, Molecular and Microbial Biology 421 or 521 or consent of the Faculty.,none,none
-619,Neurosciences,MDSC619,Admission to the Neuroscience Graduate Program or consent of the instructor.,none,none
-620,Topics in Systems Physiology,MDSC620,Admission to the Master of Pathologists’ Assistant program or consent of the instructor.,none,none
-621,Principles of Drug Action,MDSC621, Zoology 461, Medical Science 404 and Medical Science/Biology 501, or consent of the Faculty.,none,none
-622,Neurobiology of Mental Illness,MDSC622,Medical Science 619.02 and admission to a Cumming School of Medicine graduate program or consent of the instructor.,none,none
-623,Respiratory Science and Critical Illness,MDSC623,Zoology 463 or 465 or consent of the Faculty.,none,none
-624,Neuroanatomy,MDSC624,Medical Science 619.02 or consent of the instructor.,none,none
-629,Cardiovascular Dynamics,MDSC629, Consent of the Faculty.,none,none
-631,Muscle Physiology,MDSC631, Consent of the Faculty.,none,none
-633,The Kidney,MDSC633, Medical Science 604 or consent of the Faculty.,none,none
-635,Psychosocial Oncology,MDSC635,Consent of the Faculty.,Credit for Medical Science 635 and 535 will not be allowed.,none
-636,Advanced Topics in Physiology,MDSC636,Medical Science 404 or Zoology 463 or consent of the instructor.,Credit for Medical Science 569 and Medical Science 636 will not be allowed.,none
-637,Gastrointestinal Physiology,MDSC637,Consent of the Faculty.,none,none
-638,Mucosal Pathophysiology,MDSC638,Consent of the Faculty.,none,none
-639,Immunology,MDSC639,Cellular, Molecular and Microbial Biology 527 or consent of the Faculty.,none,none
-640,Introduction to Immunology ,MDSC640,Consent of the Faculty.,Credit for Medical Science 640 and Cellular, Molecular and Microbial Biology 527 will not be allowed.,none
-641,Genetics,MDSC641,Consent of the instructor.,none,none
-662,Careers in Biotechnology I,MDSC662,Admission to the Master of Biomedical Technology program.
- ,none,none
-663,Advanced Muscle Mechanics and Physiology,MDSC663, Consent of the Faculty.,none,none
-664,Careers in Biotechnology II,MDSC664,Medical Science 662.,none,none
-670,Practicum in Biomedical Technology,MDSC670,Admission to the Biomedical Technology Graduate Program. ,none,none
-671,Techniques in Medical Science,MDSC671, Consent of the Faculty.,none,none
-674,Integrated Systems Course,MDSC674,Admission to the Master of Biomedical Technology program or consent of the instructor(s). ,none,none
-675,Bioinformatics Resources for the Biologist,MDSC675, Consent of the Faculty.,none,none
-676,Scripting and Database Querying for Molecular Biologists,MDSC676,none,none,none
-677,Directed Study in Biomedical Technology,MDSC677, Consent of both the faculty member who will supervise and the MBT faculty member who will co-supervise the chosen study and must be registered in the Master of Biomedical Technology program.,none,none
-678,Project in Biomedical Technology,MDSC678,Admission to the Biomedical Technology Graduate Program or consent of the instructor(s).,none,none
-679,Fundamentals of Bioinformatics,MDSC679,Admission to the Bioinformatics specialization of the Biochemistry and Molecular Biology graduate program or consent of instructor.,none,none
-685,Biomechanics of Human Movement,MDSC685, Consent of the Faculty.,Credit for more than one of Medical Science 685, Mechanical Engineering 685 and Kinesiology 685 is not allowed.
-     ,none
-689,Medical Imaging,MDSC689,Admission to a graduate program with specialization in Medical Imaging or consent of the instructor.,none,none
-701,Advanced Topics in Reproductive Health,MDSC701,Consent of course co-ordinator and studentsinglequotes supervisor, if applicable.,none,none
-703,Human Anatomy: Concepts, Exploration and Teaching,MDSC703, Should have some previous experience with dissection. Consent of the instructors.,none,none
-706,Theory and Practice of Family Therapy ,MDSC706,Admission to a graduate program in the Cumming School of Medicine or consent of the instructor.,none,none
-707,Family Therapy Practicum,MDSC707, Consent of the Faculty.,none,none
-708,Theory and Practice of Interprofessional Psychosocial Oncology,MDSC708,Consent of the instructor.,none,none
-710,Business and Careers in Biotechnology ,MDSC710,Admission to a thesis-based Mastersinglequotes or Doctoral program in the Cumming School of Medicine. ,none,none
-713,Topics in Mountain Medicine and High Altitude Physiology,MDSC713, Consent of the instructor.,none,none
-721,Biochemistry and Molecular Biology,MDSC721,Admission to the Biochemistry and Molecular Biology Graduate Program or consent of the instructor.,none,none
-722,The Blood Vessel,MDSC722,Admission to a graduate program in the Cumming School of Medicine or consent of the instructor.,Credit for Medical Science 722.01 and 722.02 will not be allowed.,none
-740,Smooth Muscle Structure Function,MDSC740,Consent of the instructor.,none,none
-744,Human Pathology,MDSC744,Admission to the Master of Pathologistsinglequotes Assistant graduate program or the Pathologists’ Assistant specialization of the Medical Science graduate program, or consent of the instructor.    ,none,none
-745,Human Histology,MDSC745,Admission to the Master of Pathologistssinglequote Assistant program or the Pathologists’ Assistant specialization of the Medical Science graduate program, or consent of the instructor.,none,none
-746,Integrated Pathologists’ Assistant Skills,MDSC746,Admission to the Master of Pathologistssinglequote Assistant program or consent of the instructor.,none,none
-747,Pediatric Pathology Practicum,MDSC747,Admission to the Master of Pathologistssinglequote Assistant program or the Pathologists’ Assistant specialization of the Medical Science graduate program, or consent of the instructor.,none,none
-748,Surgical Pathology Practicum,MDSC748,Admission to the Master of Pathologistssinglequote Assistant program or the Pathologists’ Assistant specialization of the Medical Science graduate program, or consent of the instructor.,none,none
-749,Autopsy Pathology Practicum,MDSC749,Admission to the Master of Pathologistssinglequote Assistant program or the Pathologists’ Assistant specialization of the Medical Science graduate program or consent of the instructor.,none,none
-750,Pathologistssinglequote Assistant Research Project,MDSC750,Admission to the Master of Pathologistssinglequote Assistant program or consent of the instructor.,none,none
-751,Topics in Medical Science,MDSC751,Consent of the Faculty.,none,none
-755,Directed Study,MDSC755,Consent of the Faculty. ,none,none
+201,Applied Tools in Bioinformatics ,MDSC 201,Admission to the Bioinformatics major of BHSc Honours program.,none,none
+203,Developing Health Research Literacy I,MDSC 203, Admission to the BHSc Honours program.,none,none
+205,Developing Health Research Literacy II,MDSC 205, Medical Science 203 and admission to the BHSc Honours program.,none,none
+301,Bioinformatics,MDSC 301,6 units in Computer Science at the 300 level; or Medical Science 341 and 351; or 6 units in Biological Sciences at the 300 level.,Credit for Medical Science 301 and 401 will not be allowed.,none
+307,Science$ Philosophy and Society,MDSC 307, Second-year or higher standing in the BHSc Honours program.,none,none
+308,Interdisciplinary Research Approaches,MDSC 308, Medical Science 205 and admission to the BHSc Honours program.,none,none
+309,Science and Politics ,MDSC 309,Second-year or higher standing in the BHSc Honours program.,none,none
+321,Introduction to Immunology,MDSC 321,Biology 241 and 243.,none,none
+341,Principles of Human Genetics,MDSC 341, Biology 241; and 243 or 231; and admission to the BHSc Honours program.,Credit for Medical Science 341 and Biology 311 will not be allowed.,none
+351,Honours Cellular and Molecular Biology,MDSC 351, Medical Science 341 and admission to the BHSc Honours program.,Credit for Medical Science 351 and Biology 331 will not be allowed.,none
+397,Independent Studies in Health Sciences,MDSC 397,A maximum of 45 units and consent of the BHSc Honours program.,none,none
+402,Organismal Biology,MDSC 402,Admission to the BHSc Honours program; and Biology 241; and 243 or 231; and Medical Science 351.,Credit for Medical Science 402 and 417 will not be allowed.      ,none
+403,Computation for Bioinformatics,MDSC 403,Medical Science 301 or 401; and Statistics 321.,none,none
+404,Integrative Human Physiology,MDSC 404,Admission to the BHSc Honours program. ,Credit for Medical Science 404 and any of Kinesiology 259$ 260$ 323$ Zoology 461$ 463 or Biology 305 will not be allowed.,none
+407,Statistics and Research Design in Health Sciences,MDSC 407,Admission to the BHSc Honours program.,none,none
+408,Research Design in Molecular Biology and Bioinformatics,MDSC 408, Medical Science 308 and admission to the BHSc Honours program.,none,none
+409,Brain and Society,MDSC 409,Admission to the BHSc Honours program.,none,none
+415,Introduction to Epidemiology,MDSC 415,Medical Science 308.,none,none
+417,Integrated Research Course I,MDSC 417,Medical Science 308 and admission to the BHSc Honours program.,Credit for Medical Science 417 and 402 will not be allowed.,none
+419,Integrated Research Course II,MDSC 419,Medical Science 308$ the appropriate 417 course and admission to the BHSc Honours program.,Credit for Medical Science 419 and 402 will not be allowed.,none
+501,Principles and Mechanisms of Pharmacology,MDSC 501,Admission to the BHSc Honours program; and Biochemistry 341 or 393; and Zoology 463 or Medical Science 404.,none,none
+503,Pharmacology of Organ Systems,MDSC 503, Medical Science 501 (Biology 501).,none,none
+507,Special Problems in Medical Science,MDSC 507, Consent of the BHSc Honours program.,none,none
+508,Honours Thesis and Research Communication,MDSC 508,Admission to the BHSc Honours program; and Health and Society 408 or Medical Science 408; and a minimum cumulative 3.30 GPA.  ,none,none
+509,Proteomics,MDSC 509, Biochemistry 443; and Medical Sciences 351 or Biology 331.,none,none
+515,Cellular Mechanisms of Disease,MDSC 515, Biochemistry 341 or 393; and Biology 331 or Medical Science 351.,none,none
+517,Introduction to Biotechnology Business and Profession,MDSC 517,Medical Science 351.,none,none
+519,Advanced Bioinformatics,MDSC 519,Medical Science 301 or 401; and 3 units from Computer Science 217$ 219$ 231 or 233.,none,none
+521,Human Anatomy,MDSC 521,Fourth-year standing in the BHSc Honours program.,none,none
+523,AI Applications in Health ,MDSC 523,Medical Science 301 or 401; and 3 units from Computer Science 217$ 219$ 231 or 233.,none,none
+528,Independent Studies in Medical Science,MDSC 528, Consent of the BHSc Honours program.,none,none
+535,Psychosocial Oncology,MDSC 535,Consent of the instructor.,Credit for Medical Science 535 and 635 will not be allowed.,none
+541,Advanced Genetics I,MDSC 541,Medical Science 341 or Biology 311.,none,none
+543,Advanced Genetics II,MDSC 543, Medical Science 341 or Biology 311.,none,none
+545,Genomics,MDSC 545,Medical Science 408 or Cellular$ Molecular and Microbial Biology 413.,none,none
+561,Cancer Biology,MDSC 561,Biochemistry 341 or 393; and Medical Science 341 or Biology 311; and Medical Science 351 or Biology 331; and Medical Science 408 or Cellular$ Molecular and Microbial Biology 411.,none,none
+565,Advanced Topics in Microbial Pathogenesis and the Microbiome ,MDSC 565,Cellular$ Molecular and Microbial Biology 343 and 431.,none,none
+567,Advanced Topics in Immunology,MDSC 567,Cellular$ Molecular and Microbial Biology 527 or Medical Science 321.,none,none
+569,Advanced Topics in Physiology,MDSC 569,Medical Science 404 or Zoology 463.  ,none,none
+603,Biology of Laboratory Animals,MDSC 603, Consent of the Faculty.,none,none
+604,Integrative Human Physiology,MDSC 604, Consent of the Faculty.,none,none
+605,Information Storage and Processing in Biological Systems,MDSC 605, Consent of the Faculty.,none,none
+609,Gene Expression,MDSC 609,Consent of the program. A strong background in undergraduate genetics and developmental biology is recommended.   ,none,none
+611,Medical Microbiology,MDSC 611,Cellular$ Molecular and Microbial Biology 343 or consent of the Faculty.     ,none,none
+613,Advanced Studies in Microbiology,MDSC 613, Medical Science 612 or Cellular$ Molecular and Microbial Biology 421 or 521 or consent of the Faculty.,none,none
+619,Neurosciences,MDSC 619,Admission to the Neuroscience Graduate Program or consent of the instructor.,none,none
+620,Topics in Systems Physiology,MDSC 620,Admission to the Master of Pathologists’ Assistant program or consent of the instructor.,none,none
+621,Principles of Drug Action,MDSC 621, Zoology 461$ Medical Science 404 and Medical Science/Biology 501$ or consent of the Faculty.,none,none
+622,Neurobiology of Mental Illness,MDSC 622,Medical Science 619.02 and admission to a Cumming School of Medicine graduate program or consent of the instructor.,none,none
+623,Respiratory Science and Critical Illness,MDSC 623,Zoology 463 or 465 or consent of the Faculty.,none,none
+624,Neuroanatomy,MDSC 624,Medical Science 619.02 or consent of the instructor.,none,none
+629,Cardiovascular Dynamics,MDSC 629, Consent of the Faculty.,none,none
+631,Muscle Physiology,MDSC 631, Consent of the Faculty.,none,none
+633,The Kidney,MDSC 633, Medical Science 604 or consent of the Faculty.,none,none
+635,Psychosocial Oncology,MDSC 635,Consent of the Faculty.,Credit for Medical Science 635 and 535 will not be allowed.,none
+636,Advanced Topics in Physiology,MDSC 636,Medical Science 404 or Zoology 463 or consent of the instructor.,Credit for Medical Science 569 and Medical Science 636 will not be allowed.,none
+637,Gastrointestinal Physiology,MDSC 637,Consent of the Faculty.,none,none
+638,Mucosal Pathophysiology,MDSC 638,Consent of the Faculty.,none,none
+639,Immunology,MDSC 639,Cellular$ Molecular and Microbial Biology 527 or consent of the Faculty.,none,none
+640,Introduction to Immunology ,MDSC 640,Consent of the Faculty.,Credit for Medical Science 640 and Cellular$ Molecular and Microbial Biology 527 will not be allowed.,none
+641,Genetics,MDSC 641,Consent of the instructor.,none,none
+662,Careers in Biotechnology I,MDSC 662,Admission to the Master of Biomedical Technology program. ,none,none
+663,Advanced Muscle Mechanics and Physiology,MDSC 663, Consent of the Faculty.,none,none
+664,Careers in Biotechnology II,MDSC 664,Medical Science 662.,none,none
+670,Practicum in Biomedical Technology,MDSC 670,Admission to the Biomedical Technology Graduate Program. ,none,none
+671,Techniques in Medical Science,MDSC 671, Consent of the Faculty.,none,none
+674,Integrated Systems Course,MDSC 674,Admission to the Master of Biomedical Technology program or consent of the instructor(s). ,none,none
+675,Bioinformatics Resources for the Biologist,MDSC 675, Consent of the Faculty.,none,none
+676,Scripting and Database Querying for Molecular Biologists,MDSC 676,none,none,none
+677,Directed Study in Biomedical Technology,MDSC 677, Consent of both the faculty member who will supervise and the MBT faculty member who will co-supervise the chosen study and must be registered in the Master of Biomedical Technology program.,none,none
+678,Project in Biomedical Technology,MDSC 678,Admission to the Biomedical Technology Graduate Program or consent of the instructor(s).,none,none
+679,Fundamentals of Bioinformatics,MDSC 679,Admission to the Bioinformatics specialization of the Biochemistry and Molecular Biology graduate program or consent of instructor.,none,none
+685,Biomechanics of Human Movement,MDSC 685, Consent of the Faculty.,Credit for more than one of Medical Science 685$ Mechanical Engineering 685 and Kinesiology 685 is not allowed.     ,none
+689,Medical Imaging,MDSC 689,Admission to a graduate program with specialization in Medical Imaging or consent of the instructor.,none,none
+701,Advanced Topics in Reproductive Health,MDSC 701,Consent of course co-ordinator and studentsinglequotes supervisor$ if applicable.,none,none
+703,Human Anatomy: Concepts$ Exploration and Teaching,MDSC 703, Should have some previous experience with dissection. Consent of the instructors.,none,none
+706,Theory and Practice of Family Therapy ,MDSC 706,Admission to a graduate program in the Cumming School of Medicine or consent of the instructor.,none,none
+707,Family Therapy Practicum,MDSC 707, Consent of the Faculty.,none,none
+708,Theory and Practice of Interprofessional Psychosocial Oncology,MDSC 708,Consent of the instructor.,none,none
+710,Business and Careers in Biotechnology ,MDSC 710,Admission to a thesis-based Mastersinglequotes or Doctoral program in the Cumming School of Medicine. ,none,none
+713,Topics in Mountain Medicine and High Altitude Physiology,MDSC 713, Consent of the instructor.,none,none
+721,Biochemistry and Molecular Biology,MDSC 721,Admission to the Biochemistry and Molecular Biology Graduate Program or consent of the instructor.,none,none
+722,The Blood Vessel,MDSC 722,Admission to a graduate program in the Cumming School of Medicine or consent of the instructor.,Credit for Medical Science 722.01 and 722.02 will not be allowed.,none
+740,Smooth Muscle Structure Function,MDSC 740,Consent of the instructor.,none,none
+744,Human Pathology,MDSC 744,Admission to the Master of Pathologistsinglequotes Assistant graduate program or the Pathologists’ Assistant specialization of the Medical Science graduate program$ or consent of the instructor.    ,none,none
+745,Human Histology,MDSC 745,Admission to the Master of Pathologistssinglequote Assistant program or the Pathologists’ Assistant specialization of the Medical Science graduate program$ or consent of the instructor.,none,none
+746,Integrated Pathologists’ Assistant Skills,MDSC 746,Admission to the Master of Pathologistssinglequote Assistant program or consent of the instructor.,none,none
+747,Pediatric Pathology Practicum,MDSC 747,Admission to the Master of Pathologistssinglequote Assistant program or the Pathologists’ Assistant specialization of the Medical Science graduate program$ or consent of the instructor.,none,none
+748,Surgical Pathology Practicum,MDSC 748,Admission to the Master of Pathologistssinglequote Assistant program or the Pathologists’ Assistant specialization of the Medical Science graduate program$ or consent of the instructor.,none,none
+749,Autopsy Pathology Practicum,MDSC 749,Admission to the Master of Pathologistssinglequote Assistant program or the Pathologists’ Assistant specialization of the Medical Science graduate program or consent of the instructor.,none,none
+750,Pathologistssinglequote Assistant Research Project,MDSC 750,Admission to the Master of Pathologistssinglequote Assistant program or consent of the instructor.,none,none
+751,Topics in Medical Science,MDSC 751,Consent of the Faculty.,none,none
+755,Directed Study,MDSC 755,Consent of the Faculty. ,none,none

@@ -1,127 +1,113 @@
-203,Introduction to Problem Solving using Application Software,CPSC203,none,Not open to Computer Science majors.,none
-217,Introduction to Computer Science for Multidisciplinary Studies I,CPSC217,none,Credit for Computer Science 217 and any of 215, 231, 235, Data Science 211, Computer Engineering 339 or Engineering 233 will not be allowed.,none
-219,Introduction to Computer Science for Multidisciplinary Studies II,CPSC219,Computer Science 217 or Data Science 211.,Credit for Computer Science 219 and any of 233, 235, Electrical Engineering 497 or Computer Engineering 493 will not be allowed.,none
-231,Introduction to Computer Science for Computer Science Majors I,CPSC231,none,Credit for Computer Science 231 and any of 215, 217, 235 or Data Science 211 or Computer Engineering 339 or Engineering 233 will not be allowed.,none
-233,Introduction to Computer Science for Computer Science Majors II,CPSC233,Computer Science 231.,Credit for Computer Science 233 and any of 219, 235, Electrical Engineering 497 or Computer Engineering 493 will not be allowed.,none
-235,Advanced Introduction to Computer Science,CPSC235,Consent of the Department.,Credit for Computer Science 235 and any of 215, 217, 219, 231, 233, Computer Engineering 339, 493 or Data Science 211 will not be allowed.,none
-251,Theoretical Foundations of Computer Science I ,CPSC251,Computer Science 219 or 231.,Students may not register in, or have credit for, Computer Science 251 if they have previous credit for one of Mathematics 271 or 273 or are concurrently enrolled in Mathematics 271 or 273.,none
-313,Introduction to Computability,CPSC313,Mathematics 271 or 273; and Philosophy 279 or 377; and 3 units from Computer Science 219, 233 or 235.,Credit for Computer Science 313 and Computer Science 351 will not be allowed.,none
-319,Data Structures, Algorithms, and Their Applications,CPSC319,3 units from Computer Science 219, 233, 235, Computer Engineering 335, 339 or Software Engineering for Engineers 337.,Credit for Computer Science 319 and 331 will not be allowed. Computer Science majors are not permitted to register in this course.,none
-329,Explorations in Information Security and Privacy,CPSC329,Mathematics 30-1 or Mathematics 30-2.,none,none
-331,Data Structures, Algorithms, and Their Analysis,CPSC331,3 units from Computer Science 251, Mathematics 271 or 273; and 3 units from Computer Science 219, 233, 235, Computer Engineering 335, 339 or Software Engineering for Engineers 337.,Credit for Computer Science 331 and 319 will not be allowed.
-           ,none
-335,Intermediate Information Structures,CPSC335,Computer Science 319 or 331.
-         ,none,none
-351,Theoretical Foundations of Computer Science II ,CPSC351,3 units from Computer Science 219, 233 or 235; and Computer Science 251 or with department consent Statistics 213 and either Mathematics 271 or 273; and 3 units from Mathematics 249, 265 or 275; and Philosophy 279 or 377.  ,Credit for Computer Science 351 and Computer Science 313 will not be allowed.,none
-355,Computing Machinery I,CPSC355,3 units from Computer Science 219, 233 or 235.,Credit for Computer Science 355 and 265 or Computer Engineering 369 will not be allowed.,none
-359,Computing Machinery II,CPSC359,Computer Science 355 and Philosophy 279 or 377.,Credit for Computer Science 359 and any of 325, 455 or Computer Engineering 415 will not be allowed. ,none
-399,Special Topics in Computer Science,CPSC399,Consent of the Department.,none,none
-405,Software Entrepreneurship ,CPSC405,Software Engineering 300 or 301.,none,none
-409,History of Computation,CPSC409,Computer Science 355.,none,none
-411,Compiler Construction,CPSC411,Computer Science 319 or 331; and Computer Science 355 or Computer Engineering 369.,none,none
-413,Design and Analysis of Algorithms I,CPSC413,Computer Science 331; and 313 or 351; and Mathematics 211 or 213; and 3 units from Mathematics 249, 265 or 275.,none,none
-418,Introduction to Cryptography,CPSC418,Computer Science 331 and 3 units from Computer Science 351, Mathematics 271, 273, 315 or Pure Mathematics 315.,Credit for Computer Science 418 and any of Computer Science 429, 557, Mathematics 318, Pure Mathematics 329 or 418 will not be allowed.,none
-433,Artificial Intelligence,CPSC433,Computer Science 313 or 351; and Philosophy 279 or 377.,none,none
-441,Computer Networks,CPSC441,Computer Science 319 or 331; and Computer Science 355 or Computer Engineering 369.,Credit for Computer Science 441 and Electrical Engineering 573 will not be allowed.,none
-449,Programming Paradigms,CPSC449,Computer Science 319 or 331; and Philosophy 279 or 377.,Credit for Computer Science 449 and 349 will not be allowed.,none
-453,Introduction to Computer Graphics,CPSC453,Computer Science 319 or 331; and Mathematics 211 or 213; and 3 units from Mathematics 253, 267, 277, 283 or Applied Mathematics 219.,none,none
-457,Principles of Operating Systems,CPSC457,Computer Science 319 or 331; and Computer Science 355 or Computer Engineering 369.,none,none
-461,Information Structures,CPSC461,Computer Science 355; and 319 or 331.,none,none
-471,Data Base Management Systems,CPSC471,Computer Science 319 or 331.,Credit for Computer Science 471 and Business Technology Management 331 will not be allowed.,none
-481,Human-Computer Interaction I,CPSC481,3 units from Software Engineering 300, 301, Software Engineering 480 or Data Science 311.,none,none
-491,Techniques for Numerical Computation,CPSC491,Computer Science 319 or 331; and Mathematics 211 or 213; and 3 units from Mathematics 249, 265 or 275.,Credit for Computer Science 491 and any of Mathematics 391, 493 or Engineering 407 will not be allowed.,none
-499,Special Topics in Computer Science,CPSC499,Consent of the Department.,none,none
-501,Advanced Programming Techniques,CPSC501,Computer Science 349 or 449.,none,none
-502,Research Project,CPSC502,Consent of the Department.,Credit for Computer Science 502 and any of 503, Software Engineering for Engineers 599 or 591 will not be allowed.,none
-503,Project,CPSC503,Consent of the Department.,Credit for Computer Science 503 and either 502 or Software Engineering for Engineers 599 will not be allowed.,none
-511,Introduction to Complexity Theory,CPSC511,Computer Science 413.,Credit for Computer Science 511 and 611 will not be allowed.,none
-513,Computability,CPSC513,Computer Science 313 or 351.,none,none
-517,Design and Analysis of Algorithms II,CPSC517,Computer Science 413.,none,none
-518,Introduction to Computer Algebra,CPSC518,Computer Science 413; and Mathematics 211 or 213.,Credit for Computer Science 518 and Computer Science 667 will not be allowed.,none
-519,Introduction to Quantum Computation,CPSC519,Computer Science 413; and Mathematics 311 or 313.,Credit for Computer Science 519 and Computer Science 619 will not be allowed.,none
-521,Foundations of Functional Programming,CPSC521,Computer Science 313 or 351; and Computer Science 349 or 449.,none,none
-522,Introduction to Randomized Algorithms,CPSC522,Computer Science 413.,Credit for Computer Science 522 and 622 will not be allowed.,none
-525,Principles of Computer Security,CPSC525,Computer Science 457; and 3 units from Computer Science 351, Mathematics 271 or 273.,Credit for Computer Science 525 and either 529 or 625 will not be allowed.,none
-526,Network Systems Security,CPSC526,Computer Science 329 and 441.,Credit for Computer Science 526 and either 529 or 626 will not be allowed.
-             ,none
-527,Computer Viruses and Malware,CPSC527,Computer Science 313 and 457 and consent of the Department.,Credit for Computer Science 527 and 627 will not be allowed.,none
-528,Spam and Spyware,CPSC528,Computer Science 313 and 457 and consent of the Department.,Credit for Computer Science 528 and 628 will not be allowed.,none
-530,Information Theory and Security  ,CPSC530,Computer Science 351; or 3 units from Computer Science 219, 233 or 235 and 3 units from Mathematics 271, 273, 315 and 3 units from Statistics 205, 213, 321.,Credit for Computer Science 530 and 630 will not be allowed.,none
-531,Systems Modelling and Simulation,CPSC531,Computer Science 457 and 3 units from Mathematics 321, Statistics 205, 211, 213 or 321.,none,none
-535,Introduction to Image Analysis and Computer Vision,CPSC535,3 units from Mathematics 311, 313, 331, 353, 376, Applied Mathematics 307, 311, Pure Mathematics 331.,Credit for Computer Science 535 and 635 will not be allowed.,none
-550,Systems Administration,CPSC550,Computer Science 441, 457 and consent of the Department.,none,none
-559,Introduction to Distributed Systems,CPSC559,Computer Science 441 and 457.,none,none
-561,Introduction to Distributed Algorithms,CPSC561,Computer Science 413.,Credit for Computer Science 561 and 661 will not be allowed.,none
-565,Emergent Computing,CPSC565,Computer Science 433.,none,none
-567,Foundations of Multi-Agent Systems,CPSC567,Computer Science 457 and 433.,Credit for Computer Science 567 and 609 or Software Engineering 697 will not be allowed.,none
-568,Agent Communications,CPSC568,Computer Science 433 and consent of the Department.,Credit for Computer Science 568 and 662 will not be allowed.,none
-571,Design and Implementation of Database Systems,CPSC571,Computer Science 471.,Credit for Computer Science 571 and 671 will not be allowed.,none
-572,Fundamentals of Social Network Analysis and Data Mining ,CPSC572,Computer Science 471.,Credit for Computer Science 572 and either 599.77 and 672 will not be allowed.,none
-575,iProgramming for Creative Minds,CPSC575,Software Engineering 300 or 301. ,none,none
-577,Biometric Technologies,CPSC577,Computer Science 453. ,none,none
-581,Human-Computer Interaction II,CPSC581,Computer Science 481 and consent of the Department.,none,none
-583,Introduction to Information Visualization,CPSC583,3 units from Computer Science 319, 331 or Data Science 311.,none,none
-584,Human-Robot Interaction,CPSC584,Computer Science 481.,none,none
-585,Games Programming,CPSC585,Computer Science 453 and consent of the Department.,none,none
-587,Fundamentals of Computer Animation,CPSC587,Computer Science 453.,Credit for Computer Science 587 and 687 will not be allowed.,none
-589,Modelling for Computer Graphics,CPSC589,Computer Science 453.,Credit for Computer Science 589 and 689 will not be allowed.,none
-591,Rendering,CPSC591,Computer Science 453.,Credit for Computer Science 591 and 691 will not be allowed.,none
-594,Software Engineering Project,CPSC594,Consent of the Department.,none,none
-598,Special Topics in Computer Science,CPSC598,Consent of the Department.,none,none
-599,Special Topics in Computer Science,CPSC599,Consent of the Department.,none,none
-601,Special Topics in Computer Science,CPSC601,none,none,none
-605,Information Storage and Processing in Biological Systems,CPSC605,none,none,none
-607,Biological Computation,CPSC607,none,none,none
-609,Foundations of Multi-Agent Systems,CPSC609,none,Credit for Computer Science 609 and either Computer Science 567 or Software Engineering 697 will not be allowed for programs offered by the Department of Computer Science.,none
-610,Compiler Code Generation and Optimization,CPSC610,none,none,none
-611,Complexity Theory,CPSC611,none,Credit for Computer Science 611 and Computer Science 511 will not be allowed.,none
-615,Computational Techniques for Graphics and Visualization,CPSC615,none,Credit for Computer Science 615 and 601.13 will not be allowed.
-     ,none
-617,Category Theory for Computer Science,CPSC617,none,none,none
-619,Quantum Computation,CPSC619,none,Credit for Computer Science 619 and 519 will not be allowed.,none
-622,Randomized Algorithms,CPSC622,none,Credit for Computer Science 622 and 522 will not be allowed.,none
-625,Principles of Computer Security,CPSC625,none,Credit for Computer Science 625 and 525 will not be allowed.,none
-626,Network Systems Security,CPSC626,none,Credit for Computer Science 626 and 526 will not be allowed.
-   ,none
-627,Computer Viruses and Malware,CPSC627,Consent of the Department.,Credit for Computer Science 627 and 527 will not be allowed.
-    ,none
-628,Spam and Spyware,CPSC628,Consent of the Department.,Credit for Computer Science 628 and 528 will not be allowed.
-    ,none
-629,Elliptic Curves and Cryptography,CPSC629,none,none,none
-630,Information Theory and Security  ,CPSC630,none,Credit for Computer Science 630 and 530 will not be allowed.,none
-635,Image Analysis and Computer Vision,CPSC635,none,Credit for Computer Science 635 and 535 will not be allowed.
-    ,none
-641,Performance Issues in High Speed Networks,CPSC641,none,none,none
-643,Modern Wireless Networks,CPSC643,none,none,none
-653,Computational Geometry,CPSC653,none,none,none
-657,Modelling And Visualization of Plants,CPSC657,none,none,none
-661,Algorithms for Distributed Computation,CPSC661,none,Credit for Computer Science 661 and 561 will not be allowed.,none
-662,Agent Communications,CPSC662,none,Credit for Computer Science 662 and 568 will not be allowed.
-   ,none
-667,Computer Algebra,CPSC667,none,Credit for Computer Science 667 and 518 will not be allowed.
-      ,none
-669,Cryptography,CPSC669,none,none,none
-671,Database Management Systems,CPSC671,none,Credit for Computer Science 671 and 571 will not be allowed.
-   ,none
-672,Fundamentals of Social Network Analysis and Data Mining ,CPSC672,none,Credit for Computer Science 672 and either 572 or 599.77 will not be allowed.
-   ,none
-673,Distributed Database Systems,CPSC673,none,none,none
-675,Datawarehouse Systems,CPSC675,none,none,none
-681,Research Methods in Human-Computer Interaction,CPSC681,none,none,none
-683,Information Visualization: Theory and Practice,CPSC683,none,none,none
-687,Computer Animation,CPSC687,none,Credit for Computer Science 687 and 587 will not be allowed.
-   ,none
-689,Modelling for Computer Graphics,CPSC689,none,Credit for Computer Science 689 and 589 will not be allowed.
-    ,none
-691,Rendering,CPSC691,none,Credit for Computer Science 691 and 591 will not be allowed.,none
-695,Data Management in Geographical Information Systems,CPSC695,none,none,none
-696,Information Security Seminar,CPSC696,none,Credit for Computer Science 696 and 699 will not be allowed.,none
-697,Biometric Security,CPSC697,none,none,none
-698,Information Security Project,CPSC698,none,none,none
-699,Research Methodology in Computer Science,CPSC699,none,Credit for Computer Science 699 and 696 will not be allowed.,none
-701,Research Topics in Computer Science,CPSC701,none,none,none
-767,Advanced Topics in Multiagent Systems,CPSC767,Computer Science 567 or 609.,none,none
-771,Current Trends in Database Technology,CPSC771,none,none,none
-781,Advanced Topics in Human-Computer Interaction,CPSC781,Computer Science 481.,none,none
-785,Implicit Modelling,CPSC785,none,none,none
-789,Advanced Geometric Modelling,CPSC789,none,none,none
+203,Introduction to Problem Solving using Application Software,CPSC 203,none,Not open to Computer Science majors.,none
+217,Introduction to Computer Science for Multidisciplinary Studies I,CPSC 217,none,Credit for Computer Science 217 and any of 215$ 231$ 235$ Data Science 211$ Computer Engineering 339 or Engineering 233 will not be allowed.,none
+219,Introduction to Computer Science for Multidisciplinary Studies II,CPSC 219,Computer Science 217 or Data Science 211.,Credit for Computer Science 219 and any of 233$ 235$ Electrical Engineering 497 or Computer Engineering 493 will not be allowed.,none
+231,Introduction to Computer Science for Computer Science Majors I,CPSC 231,none,Credit for Computer Science 231 and any of 215$ 217$ 235 or Data Science 211 or Computer Engineering 339 or Engineering 233 will not be allowed.,none
+233,Introduction to Computer Science for Computer Science Majors II,CPSC 233,Computer Science 231.,Credit for Computer Science 233 and any of 219$ 235$ Electrical Engineering 497 or Computer Engineering 493 will not be allowed.,none
+235,Advanced Introduction to Computer Science,CPSC 235,Consent of the Department.,Credit for Computer Science 235 and any of 215$ 217$ 219$ 231$ 233$ Computer Engineering 339$ 493 or Data Science 211 will not be allowed.,none
+251,Theoretical Foundations of Computer Science I ,CPSC 251,Computer Science 219 or 231.,Students may not register in$ or have credit for$ Computer Science 251 if they have previous credit for one of Mathematics 271 or 273 or are concurrently enrolled in Mathematics 271 or 273.,none
+313,Introduction to Computability,CPSC 313,Mathematics 271 or 273; and Philosophy 279 or 377; and 3 units from Computer Science 219$ 233 or 235.,Credit for Computer Science 313 and Computer Science 351 will not be allowed.,none
+319,Data Structures$ Algorithms$ and Their Applications,CPSC 319,3 units from Computer Science 219$ 233$ 235$ Computer Engineering 335$ 339 or Software Engineering for Engineers 337.,Credit for Computer Science 319 and 331 will not be allowed. Computer Science majors are not permitted to register in this course.,none
+329,Explorations in Information Security and Privacy,CPSC 329,Mathematics 30-1 or Mathematics 30-2.,none,none
+331,Data Structures$ Algorithms$ and Their Analysis,CPSC 331,3 units from Computer Science 251$ Mathematics 271 or 273; and 3 units from Computer Science 219$ 233$ 235$ Computer Engineering 335$ 339 or Software Engineering for Engineers 337.,Credit for Computer Science 331 and 319 will not be allowed.           ,none
+335,Intermediate Information Structures,CPSC 335,Computer Science 319 or 331.         ,none,none
+351,Theoretical Foundations of Computer Science II ,CPSC 351,3 units from Computer Science 219$ 233 or 235; and Computer Science 251 or with department consent Statistics 213 and either Mathematics 271 or 273; and 3 units from Mathematics 249$ 265 or 275; and Philosophy 279 or 377.  ,Credit for Computer Science 351 and Computer Science 313 will not be allowed.,none
+355,Computing Machinery I,CPSC 355,3 units from Computer Science 219$ 233 or 235.,Credit for Computer Science 355 and 265 or Computer Engineering 369 will not be allowed.,none
+359,Computing Machinery II,CPSC 359,Computer Science 355 and Philosophy 279 or 377.,Credit for Computer Science 359 and any of 325$ 455 or Computer Engineering 415 will not be allowed. ,none
+399,Special Topics in Computer Science,CPSC 399,Consent of the Department.,none,none
+405,Software Entrepreneurship ,CPSC 405,Software Engineering 300 or 301.,none,none
+409,History of Computation,CPSC 409,Computer Science 355.,none,none
+411,Compiler Construction,CPSC 411,Computer Science 319 or 331; and Computer Science 355 or Computer Engineering 369.,none,none
+413,Design and Analysis of Algorithms I,CPSC 413,Computer Science 331; and 313 or 351; and Mathematics 211 or 213; and 3 units from Mathematics 249$ 265 or 275.,none,none
+418,Introduction to Cryptography,CPSC 418,Computer Science 331 and 3 units from Computer Science 351$ Mathematics 271$ 273$ 315 or Pure Mathematics 315.,Credit for Computer Science 418 and any of Computer Science 429$ 557$ Mathematics 318$ Pure Mathematics 329 or 418 will not be allowed.,none
+433,Artificial Intelligence,CPSC 433,Computer Science 313 or 351; and Philosophy 279 or 377.,none,none
+441,Computer Networks,CPSC 441,Computer Science 319 or 331; and Computer Science 355 or Computer Engineering 369.,Credit for Computer Science 441 and Electrical Engineering 573 will not be allowed.,none
+449,Programming Paradigms,CPSC 449,Computer Science 319 or 331; and Philosophy 279 or 377.,Credit for Computer Science 449 and 349 will not be allowed.,none
+453,Introduction to Computer Graphics,CPSC 453,Computer Science 319 or 331; and Mathematics 211 or 213; and 3 units from Mathematics 253$ 267$ 277$ 283 or Applied Mathematics 219.,none,none
+457,Principles of Operating Systems,CPSC 457,Computer Science 319 or 331; and Computer Science 355 or Computer Engineering 369.,none,none
+461,Information Structures,CPSC 461,Computer Science 355; and 319 or 331.,none,none
+471,Data Base Management Systems,CPSC 471,Computer Science 319 or 331.,Credit for Computer Science 471 and Business Technology Management 331 will not be allowed.,none
+481,Human-Computer Interaction I,CPSC 481,3 units from Software Engineering 300$ 301$ Software Engineering 480 or Data Science 311.,none,none
+491,Techniques for Numerical Computation,CPSC 491,Computer Science 319 or 331; and Mathematics 211 or 213; and 3 units from Mathematics 249$ 265 or 275.,Credit for Computer Science 491 and any of Mathematics 391$ 493 or Engineering 407 will not be allowed.,none
+499,Special Topics in Computer Science,CPSC 499,Consent of the Department.,none,none
+501,Advanced Programming Techniques,CPSC 501,Computer Science 349 or 449.,none,none
+502,Research Project,CPSC 502,Consent of the Department.,Credit for Computer Science 502 and any of 503$ Software Engineering for Engineers 599 or 591 will not be allowed.,none
+503,Project,CPSC 503,Consent of the Department.,Credit for Computer Science 503 and either 502 or Software Engineering for Engineers 599 will not be allowed.,none
+511,Introduction to Complexity Theory,CPSC 511,Computer Science 413.,Credit for Computer Science 511 and 611 will not be allowed.,none
+513,Computability,CPSC 513,Computer Science 313 or 351.,none,none
+517,Design and Analysis of Algorithms II,CPSC 517,Computer Science 413.,none,none
+518,Introduction to Computer Algebra,CPSC 518,Computer Science 413; and Mathematics 211 or 213.,Credit for Computer Science 518 and Computer Science 667 will not be allowed.,none
+519,Introduction to Quantum Computation,CPSC 519,Computer Science 413; and Mathematics 311 or 313.,Credit for Computer Science 519 and Computer Science 619 will not be allowed.,none
+521,Foundations of Functional Programming,CPSC 521,Computer Science 313 or 351; and Computer Science 349 or 449.,none,none
+522,Introduction to Randomized Algorithms,CPSC 522,Computer Science 413.,Credit for Computer Science 522 and 622 will not be allowed.,none
+525,Principles of Computer Security,CPSC 525,Computer Science 457; and 3 units from Computer Science 351$ Mathematics 271 or 273.,Credit for Computer Science 525 and either 529 or 625 will not be allowed.,none
+526,Network Systems Security,CPSC 526,Computer Science 329 and 441.,Credit for Computer Science 526 and either 529 or 626 will not be allowed.             ,none
+527,Computer Viruses and Malware,CPSC 527,Computer Science 313 and 457 and consent of the Department.,Credit for Computer Science 527 and 627 will not be allowed.,none
+528,Spam and Spyware,CPSC 528,Computer Science 313 and 457 and consent of the Department.,Credit for Computer Science 528 and 628 will not be allowed.,none
+530,Information Theory and Security  ,CPSC 530,Computer Science 351; or 3 units from Computer Science 219$ 233 or 235 and 3 units from Mathematics 271$ 273$ 315 and 3 units from Statistics 205$ 213$ 321.,Credit for Computer Science 530 and 630 will not be allowed.,none
+531,Systems Modelling and Simulation,CPSC 531,Computer Science 457 and 3 units from Mathematics 321$ Statistics 205$ 211$ 213 or 321.,none,none
+535,Introduction to Image Analysis and Computer Vision,CPSC 535,3 units from Mathematics 311$ 313$ 331$ 353$ 376$ Applied Mathematics 307$ 311$ Pure Mathematics 331.,Credit for Computer Science 535 and 635 will not be allowed.,none
+550,Systems Administration,CPSC 550,Computer Science 441$ 457 and consent of the Department.,none,none
+559,Introduction to Distributed Systems,CPSC 559,Computer Science 441 and 457.,none,none
+561,Introduction to Distributed Algorithms,CPSC 561,Computer Science 413.,Credit for Computer Science 561 and 661 will not be allowed.,none
+565,Emergent Computing,CPSC 565,Computer Science 433.,none,none
+567,Foundations of Multi-Agent Systems,CPSC 567,Computer Science 457 and 433.,Credit for Computer Science 567 and 609 or Software Engineering 697 will not be allowed.,none
+568,Agent Communications,CPSC 568,Computer Science 433 and consent of the Department.,Credit for Computer Science 568 and 662 will not be allowed.,none
+571,Design and Implementation of Database Systems,CPSC 571,Computer Science 471.,Credit for Computer Science 571 and 671 will not be allowed.,none
+572,Fundamentals of Social Network Analysis and Data Mining ,CPSC 572,Computer Science 471.,Credit for Computer Science 572 and either 599.77 and 672 will not be allowed.,none
+575,iProgramming for Creative Minds,CPSC 575,Software Engineering 300 or 301. ,none,none
+577,Biometric Technologies,CPSC 577,Computer Science 453. ,none,none
+581,Human-Computer Interaction II,CPSC 581,Computer Science 481 and consent of the Department.,none,none
+583,Introduction to Information Visualization,CPSC 583,3 units from Computer Science 319$ 331 or Data Science 311.,none,none
+584,Human-Robot Interaction,CPSC 584,Computer Science 481.,none,none
+585,Games Programming,CPSC 585,Computer Science 453 and consent of the Department.,none,none
+587,Fundamentals of Computer Animation,CPSC 587,Computer Science 453.,Credit for Computer Science 587 and 687 will not be allowed.,none
+589,Modelling for Computer Graphics,CPSC 589,Computer Science 453.,Credit for Computer Science 589 and 689 will not be allowed.,none
+591,Rendering,CPSC 591,Computer Science 453.,Credit for Computer Science 591 and 691 will not be allowed.,none
+594,Software Engineering Project,CPSC 594,Consent of the Department.,none,none
+598,Special Topics in Computer Science,CPSC 598,Consent of the Department.,none,none
+599,Special Topics in Computer Science,CPSC 599,Consent of the Department.,none,none
+601,Special Topics in Computer Science,CPSC 601,none,none,none
+605,Information Storage and Processing in Biological Systems,CPSC 605,none,none,none
+607,Biological Computation,CPSC 607,none,none,none
+609,Foundations of Multi-Agent Systems,CPSC 609,none,Credit for Computer Science 609 and either Computer Science 567 or Software Engineering 697 will not be allowed for programs offered by the Department of Computer Science.,none
+610,Compiler Code Generation and Optimization,CPSC 610,none,none,none
+611,Complexity Theory,CPSC 611,none,Credit for Computer Science 611 and Computer Science 511 will not be allowed.,none
+615,Computational Techniques for Graphics and Visualization,CPSC 615,none,Credit for Computer Science 615 and 601.13 will not be allowed.     ,none
+617,Category Theory for Computer Science,CPSC 617,none,none,none
+619,Quantum Computation,CPSC 619,none,Credit for Computer Science 619 and 519 will not be allowed.,none
+622,Randomized Algorithms,CPSC 622,none,Credit for Computer Science 622 and 522 will not be allowed.,none
+625,Principles of Computer Security,CPSC 625,none,Credit for Computer Science 625 and 525 will not be allowed.,none
+626,Network Systems Security,CPSC 626,none,Credit for Computer Science 626 and 526 will not be allowed.   ,none
+627,Computer Viruses and Malware,CPSC 627,Consent of the Department.,Credit for Computer Science 627 and 527 will not be allowed.    ,none
+628,Spam and Spyware,CPSC 628,Consent of the Department.,Credit for Computer Science 628 and 528 will not be allowed.    ,none
+629,Elliptic Curves and Cryptography,CPSC 629,none,none,none
+630,Information Theory and Security  ,CPSC 630,none,Credit for Computer Science 630 and 530 will not be allowed.,none
+635,Image Analysis and Computer Vision,CPSC 635,none,Credit for Computer Science 635 and 535 will not be allowed.    ,none
+641,Performance Issues in High Speed Networks,CPSC 641,none,none,none
+643,Modern Wireless Networks,CPSC 643,none,none,none
+653,Computational Geometry,CPSC 653,none,none,none
+657,Modelling And Visualization of Plants,CPSC 657,none,none,none
+661,Algorithms for Distributed Computation,CPSC 661,none,Credit for Computer Science 661 and 561 will not be allowed.,none
+662,Agent Communications,CPSC 662,none,Credit for Computer Science 662 and 568 will not be allowed.   ,none
+667,Computer Algebra,CPSC 667,none,Credit for Computer Science 667 and 518 will not be allowed.      ,none
+669,Cryptography,CPSC 669,none,none,none
+671,Database Management Systems,CPSC 671,none,Credit for Computer Science 671 and 571 will not be allowed.   ,none
+672,Fundamentals of Social Network Analysis and Data Mining ,CPSC 672,none,Credit for Computer Science 672 and either 572 or 599.77 will not be allowed.   ,none
+673,Distributed Database Systems,CPSC 673,none,none,none
+675,Datawarehouse Systems,CPSC 675,none,none,none
+681,Research Methods in Human-Computer Interaction,CPSC 681,none,none,none
+683,Information Visualization: Theory and Practice,CPSC 683,none,none,none
+687,Computer Animation,CPSC 687,none,Credit for Computer Science 687 and 587 will not be allowed.   ,none
+689,Modelling for Computer Graphics,CPSC 689,none,Credit for Computer Science 689 and 589 will not be allowed.    ,none
+691,Rendering,CPSC 691,none,Credit for Computer Science 691 and 591 will not be allowed.,none
+695,Data Management in Geographical Information Systems,CPSC 695,none,none,none
+696,Information Security Seminar,CPSC 696,none,Credit for Computer Science 696 and 699 will not be allowed.,none
+697,Biometric Security,CPSC 697,none,none,none
+698,Information Security Project,CPSC 698,none,none,none
+699,Research Methodology in Computer Science,CPSC 699,none,Credit for Computer Science 699 and 696 will not be allowed.,none
+701,Research Topics in Computer Science,CPSC 701,none,none,none
+767,Advanced Topics in Multiagent Systems,CPSC 767,Computer Science 567 or 609.,none,none
+771,Current Trends in Database Technology,CPSC 771,none,none,none
+781,Advanced Topics in Human-Computer Interaction,CPSC 781,Computer Science 481.,none,none
+785,Implicit Modelling,CPSC 785,none,none,none
+789,Advanced Geometric Modelling,CPSC 789,none,none,none

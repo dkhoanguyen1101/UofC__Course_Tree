@@ -1,90 +1,84 @@
-177,Further Topics from Mathematics 277 ,MATH177,Mathematics 267; and Mathematics 211 or 213.,none,none
-205,Mathematical Explorations,MATH205,Mathematics 30-1, 30-2, or Mathematics 2 (offered by Continuing Education).,none,none
-209,Applied and Computational Linear Algebra for Energy Engineers,MATH209,Admission to the Energy Engineering Program.,none,none
-211,Linear Methods I,MATH211,Mathematics 30-1 or Mathematics 2 (offered by Continuing Education).,Credit for Mathematics 211 and 213 will not be allowed.,none
-213,Linear Algebra I,MATH213,A grade of 90 per cent or higher in both Mathematics 30-1 and Mathematics 31 or consent of the Department. ,Credit for Mathematics 213 and 211 will not be allowed.,none
-249,Introductory Calculus,MATH249,Mathematics 30-1 or Mathematics 2 (offered by Continuing Education).,Not open to students with 50 per cent or higher in Mathematics 31 or a grade of "C" or higher in Mathematics 3 offered through University of Calgary Continuing Education, except with special departmental permission. Credit for Mathematics 249 and either 265 or 275 will not be allowed.,none
-265,University Calculus I ,MATH265,Mathematics 30-1 or Mathematics 2 (offered by Continuing Education); and Mathematics 31 or Mathematics 3 (offered by Continuing Education).,Credit for Mathematics 265 and either 249 or 275 will not be allowed. ,none
-267,University Calculus II,MATH267,3 units from Mathematics 249, 265 or 275.,Credit for Mathematics 267 and 277 will not be allowed. ,none
-271,Discrete Mathematics,MATH271,Mathematics 211 or 213.,none,none
-273,Numbers and Proofs,MATH273,A grade of 90 per cent or higher in both Mathematics 30-1 and 31 or consent of the Department.,none,none
-275,Calculus for Engineers and Scientists ,MATH275,Mathematics 30-1 or Mathematics 2 (offered by Continuing Education); and Mathematics 31 or Mathematics 3 (offered by Continuing Education).,Credit for Mathematics 275 and either 249 or 265 will not be allowed.  ,none
-277,Multivariable Calculus for Engineers and Scientists ,MATH277,Mathematics 275; and Mathematics 211 or 213.,Credit for Mathematics 277 and 267 will not be allowed. ,none
-305,Inside Mathematics ,MATH305,Mathematics 211 or 213; and Mathematics 271 or 273.,none,none
-307,Complex Analysis I ,MATH307,Mathematics 211 or 213; and Mathematics 267 or 277; and Mathematics 271 or 273.,Credit for Mathematics 307 and 421 will not be allowed. ,none
-311,Linear Methods II,MATH311,Mathematics 211 or 213.,Credit for Mathematics 311 and 313 will not be allowed.,none
-313,Linear Algebra II,MATH313,Mathematics 213.,Credit for Mathematics 311 and 313 will not be allowed.,none
-315,Algebra I ,MATH315,Mathematics 271 or 273.,Credit for Mathematics 315 and Pure Mathematics 317 will not be allowed.,none
-318,Introduction to Cryptography ,MATH318,Mathematics 211 or 213; and Mathematics 271 or 273.,Credit for Mathematics 318 and any of Pure Mathematics 329, Computer Science 418, 429, or 557 will not be allowed. ,none
-319,Transformation Geometry ,MATH319,Mathematics 211 or 213; and Mathematics 271 or 273.,none,none
-322,Differential Geometry ,MATH322,Mathematics 271 or 273; and Mathematics 367 or 377; and Mathematics 375 or 376.,none,none
-325,Introduction to Optimization ,MATH325,Mathematics 311 or 313; and 3 units from Mathematics 367, 377 or 331. ,none,none
-327,Number Theory ,MATH327,Mathematics 271 or 273. ,none,none
-331,Advanced Calculus for the Natural Sciences,MATH331,Mathematics 267 or 277; and Mathematics 211 or 213.,Credit for Mathematics 331 and either 367 or 377 will not be allowed.,none
-335,Analysis I,MATH335,Mathematics 267 or 277; and Mathematics 271 or 273.,Credit for Mathematics 335 and 355 will not be allowed.,none
-355,Enriched Analysis I ,MATH355,Mathematics 267 or 277; and Mathematics 271 or 273. ,Credit for Mathematics 355 and 335 will not be allowed. ,none
-361,Linear Spaces with Applications ,MATH361,Mathematics 311 or a grade of "B+" or higher in Mathematics 213; and Mathematics 267 or 277. ,Credit for Mathematics 361 and 313 will not be allowed. ,none
-367,University Calculus III ,MATH367,Mathematics 267 or 277; and Mathematics 211 or 213. ,Credit for Mathematics 367 and either 331 or 377 will not be allowed. ,none
-371,Combinatorics and Graph Theory ,MATH371,Mathematics 271 or 273; and 3 units from Mathematics 249, 265 or 275.,none,none
-375,Differential Equations for Engineers and Scientists ,MATH375,Mathematics 277 or both Mathematics 267 and 177.,Credit for Mathematics 375 and either 376 or Applied Mathematics 311 will not be allowed. ,none
-376,Differential Equations I ,MATH376,Mathematics 267 or 277.,Credit for Mathematics 376 and 375 or Applied Mathematics 307 will not be allowed. ,none
-377,Vector Calculus for Engineers and Scientists ,MATH377,Mathematics 375. ,Credit for Mathematics 377 and either 331 or 367 will not be allowed. ,none
-383,Introduction to Mathematical Finance ,MATH383,Statistics 321. ,none,none
-391,Numerical Analysis I ,MATH391,Mathematics 211 or 213; and Mathematics 267 or 277; and 3 units from Computer Science 217, 231, 235 or Data Science 211. ,Credit for Mathematics 391 and Computer Science 491 will not be allowed.,none
-401,Special Topics,MATH401,Consent of the Department.,none,none
-403,Topics in Mathematics for Economics,MATH403,Mathematics 211 or 213; and 3 units from Mathematics 267 or 277 or 6 units from Economics 387 and 389.,none,none
-413,Introduction to Partial Differential Equations ,MATH413,Mathematics 331; or 6 units from Mathematics 375 or 376 and Mathematics 367 or 377.,none,none
-415,Mathematical Methods ,MATH415,Mathematics 211 or 213; and 3 units from Mathematics 331, 367, 375 or 376.,none,none
-429,Cryptography: Design and Analysis of Cryptosystems ,MATH429,Mathematics 315; and Mathematics 318 or Computer Science 418. ,none,none
-431,Algebra II ,MATH431,Mathematics 315; and Mathematics 311 or 313. ,none,none
-433,Mathematical Methods in Physics ,MATH433,Mathematics 211 or 213; and Mathematics 375 or 376; and Mathematics 367 or 377. ,none,none
-445,Analysis II ,MATH445,Mathematics 367 or 377; and 3 units from Mathematics 311, 313, 361 or 411; and Mathematics 335 or 355.,Credit for Mathematics 445 and 447 will not be allowed.
-               ,none
-447,Enriched Analysis II,MATH447,Mathematics 367 or 377; and Mathematics 313 or "B+" or higher in Mathematics 311; and Mathematics 355 or "B+" or higher in Mathematics 335.,Credit for Mathematics 447 and either Mathematics 445 or Pure Mathematics 545 will not be allowed.,none
-476,Differential Equations II ,MATH476,Mathematics 375 or 376; and 3 units from Mathematics 367, 377 or 331; and Mathematics 335 or 355.,none,none
-493,Numerical Analysis II ,MATH493,3 units from Mathematics 331, 375 or 376; and Mathematics 375 or 413; and 3 units from Mathematics 391, Computer Science 491 or Geophysics 419. ,none,none
-501,Measure and Integration ,MATH501,Mathematics 445 or 447; and 3 units of Mathematics in the Field of Mathematics at the 400 level or higher. ,Credit for Mathematics 501 and any one of Mathematics 601, Pure Mathematics 501 or 601 will not be allowed.,none
-502,Topics in Mathematics ,MATH502,6 units of Mathematics courses in the Field of Mathematics at the 400 level or above. ,none,none
-503,The Mathematics of Wavelets, Signal and Image Processing ,MATH503,3 units from Mathematics 391, Computer Science 491 or Geophysics 419; and 6 units of Mathematics in the Field of Mathematics at the 400 level or above. ,none,none
-505,Calculus on Manifolds ,MATH505,Mathematics 445 or 447; and Mathematics 375 or 376.,none,none
-511,Algebra III ,MATH511,Mathematics 431; and 3 units from Mathematics 313, 361 or 411; and 3 units of Mathematics in the Field of Mathematics at the 400 level or higher.,Credit for Mathematics 511 and either 607 or Pure Mathematics 611 will not be allowed.,none
-515,Foundations ,MATH515,Mathematics 431; and Mathematics 335 or 355. ,none,none
-516,Senior Project ,MATH516,6 units in the Field of Mathematics at the 400 level or above.,Credit for Mathematics 516 and 518 will not be allowed.,none
-518,Honours Thesis ,MATH518,6 units in the Field of Mathematics at the 400 level or above.,Credit for Mathematics 518 and 516 will not be allowed.,none
-521,Complex Analysis II ,MATH521,Mathematics 307; and Mathematics 445 or 447; and 3 units of Mathematics in the Field of Mathematics at the 400 level or above.,none,none
-525,Introduction to Algebraic Topology ,MATH525,Mathematics 431; and Mathematics 445 or 447.
-   ,none,none
-527,Computational Number Theory ,MATH527,Mathematics 327 and 431.,Credit for Mathematics 527 and either Pure Mathematics 527 or 643 will not be allowed. ,none
-545,Analysis III,MATH545,Mathematics 445 or 447; and 3 units of Mathematics in the Field of Mathematics at the 400 level or above.,Credit for Mathematics 545 and 603 will not be allowed. ,none
-581,Stochastic Calculus for Finance,MATH581,Mathematics 383; and 6 units of Mathematics in the Field of Mathematics at the 400 level or above.,Credit for Mathematics 581 and Applied Mathematics 681 will not be allowed. ,none
-583,Computational Finance ,MATH583,Mathematics 381, 413 and 493.,Credit for Mathematics 583 and Applied Mathematics 683 will not be allowed. ,none
-600,Research Seminar ,MATH600,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
-601,Measure and Integration,MATH601,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,Credit for Mathematics 601 and either Mathematics 501 or Pure Mathematics 501 will not be allowed.,none
-603,Analysis III ,MATH603,Admission to a graduate program in Mathematics and Statistics or consent of the Department.
-  ,Credit for Mathematics 603 and either Mathematics 545 or Pure Mathematics 545 will not be allowed. ,none
-605,Differential Equations III ,MATH605,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,Credit for Mathematics 605 and Applied Mathematics 605 will not be allowed.,none
-607,Algebra III ,MATH607,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,Credit for Mathematics 607 and any of Pure Mathematics 511, 607 or 611 will not be allowed.
-    ,none
-617,Functional Analysis ,MATH617,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,Credit for Mathematics 617 and Applied Mathematics 617 will not be allowed. 
-     ,none
-621,Complex Analysis,MATH621,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,Credit for Mathematics 621 and 521 will not be allowed.,none
-625,Introduction to Algebraic Topology ,MATH625,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,Credit for Mathematics 625 and either Mathematics 525 or Pure Mathematics 607 will not be allowed.         ,none
-627,Algebraic Geometry ,MATH627,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
-631,Discrete Mathematics ,MATH631,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
-635,Geometry of Numbers ,MATH635,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
-637,Infinite Combinatorics ,MATH637,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
-641,Number Theory ,MATH641,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
-643,Computational Number Theory ,MATH643,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,Credit for Mathematics 643 and any of Mathematics 527, Pure Mathematics 527, or Pure Mathematics 627 will not be allowed.
-    ,none
-647,Modular Forms ,MATH647,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
-651,Topics in Applied Mathematics ,MATH651,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
-653,Topics in Pure Mathematics ,MATH653,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
-661,Scientific Modelling and Computation I,MATH661,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
-663,Applied Analysis ,MATH663,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
-667,Introduction to Quantum Information ,MATH667,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
-669,Scientific Modelling and Computation II,MATH669,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
-681,Stochastic Calculus for Finance ,MATH681,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,Credit for Mathematics 681 and any one of Mathematics 581, Applied Mathematics 681, or Applied Mathematics 581 will not be allowed.,none
-683,Computational Finance ,MATH683,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,Credit for Mathematics 683 and any one of Mathematics 583, Applied Mathematics 683, or Applied Mathematics 583 will not be allowed.     ,none
-685,Stochastic Processes ,MATH685,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,Credit for Mathematics 685 and Statistics 761  will not be allowed.,none
-691,Advanced Mathematical Finance I,MATH691,Mathematics 681 and admission to a graduate program in Mathematics and Statistics.,none,none
-693,Advanced Mathematical Finance II,MATH693,Mathematics 681 and 683 and admission to a graduate program in Mathematics and Statistics. ,none,none
+177,Further Topics from Mathematics 277 ,MATH 177,Mathematics 267; and Mathematics 211 or 213.,none,none
+205,Mathematical Explorations,MATH 205,Mathematics 30-1$ 30-2$ or Mathematics 2 (offered by Continuing Education).,none,none
+209,Applied and Computational Linear Algebra for Energy Engineers,MATH 209,Admission to the Energy Engineering Program.,none,none
+211,Linear Methods I,MATH 211,Mathematics 30-1 or Mathematics 2 (offered by Continuing Education).,Credit for Mathematics 211 and 213 will not be allowed.,none
+213,Linear Algebra I,MATH 213,A grade of 90 per cent or higher in both Mathematics 30-1 and Mathematics 31 or consent of the Department. ,Credit for Mathematics 213 and 211 will not be allowed.,none
+249,Introductory Calculus,MATH 249,Mathematics 30-1 or Mathematics 2 (offered by Continuing Education).,Not open to students with 50 per cent or higher in Mathematics 31 or a grade of "C" or higher in Mathematics 3 offered through University of Calgary Continuing Education$ except with special departmental permission. Credit for Mathematics 249 and either 265 or 275 will not be allowed.,none
+265,University Calculus I ,MATH 265,Mathematics 30-1 or Mathematics 2 (offered by Continuing Education); and Mathematics 31 or Mathematics 3 (offered by Continuing Education).,Credit for Mathematics 265 and either 249 or 275 will not be allowed. ,none
+267,University Calculus II,MATH 267,3 units from Mathematics 249$ 265 or 275.,Credit for Mathematics 267 and 277 will not be allowed. ,none
+271,Discrete Mathematics,MATH 271,Mathematics 211 or 213.,none,none
+273,Numbers and Proofs,MATH 273,A grade of 90 per cent or higher in both Mathematics 30-1 and 31 or consent of the Department.,none,none
+275,Calculus for Engineers and Scientists ,MATH 275,Mathematics 30-1 or Mathematics 2 (offered by Continuing Education); and Mathematics 31 or Mathematics 3 (offered by Continuing Education).,Credit for Mathematics 275 and either 249 or 265 will not be allowed.  ,none
+277,Multivariable Calculus for Engineers and Scientists ,MATH 277,Mathematics 275; and Mathematics 211 or 213.,Credit for Mathematics 277 and 267 will not be allowed. ,none
+305,Inside Mathematics ,MATH 305,Mathematics 211 or 213; and Mathematics 271 or 273.,none,none
+307,Complex Analysis I ,MATH 307,Mathematics 211 or 213; and Mathematics 267 or 277; and Mathematics 271 or 273.,Credit for Mathematics 307 and 421 will not be allowed. ,none
+311,Linear Methods II,MATH 311,Mathematics 211 or 213.,Credit for Mathematics 311 and 313 will not be allowed.,none
+313,Linear Algebra II,MATH 313,Mathematics 213.,Credit for Mathematics 311 and 313 will not be allowed.,none
+315,Algebra I ,MATH 315,Mathematics 271 or 273.,Credit for Mathematics 315 and Pure Mathematics 317 will not be allowed.,none
+318,Introduction to Cryptography ,MATH 318,Mathematics 211 or 213; and Mathematics 271 or 273.,Credit for Mathematics 318 and any of Pure Mathematics 329$ Computer Science 418$ 429$ or 557 will not be allowed. ,none
+319,Transformation Geometry ,MATH 319,Mathematics 211 or 213; and Mathematics 271 or 273.,none,none
+322,Differential Geometry ,MATH 322,Mathematics 271 or 273; and Mathematics 367 or 377; and Mathematics 375 or 376.,none,none
+325,Introduction to Optimization ,MATH 325,Mathematics 311 or 313; and 3 units from Mathematics 367$ 377 or 331. ,none,none
+327,Number Theory ,MATH 327,Mathematics 271 or 273. ,none,none
+331,Advanced Calculus for the Natural Sciences,MATH 331,Mathematics 267 or 277; and Mathematics 211 or 213.,Credit for Mathematics 331 and either 367 or 377 will not be allowed.,none
+335,Analysis I,MATH 335,Mathematics 267 or 277; and Mathematics 271 or 273.,Credit for Mathematics 335 and 355 will not be allowed.,none
+355,Enriched Analysis I ,MATH 355,Mathematics 267 or 277; and Mathematics 271 or 273. ,Credit for Mathematics 355 and 335 will not be allowed. ,none
+361,Linear Spaces with Applications ,MATH 361,Mathematics 311 or a grade of "B+" or higher in Mathematics 213; and Mathematics 267 or 277. ,Credit for Mathematics 361 and 313 will not be allowed. ,none
+367,University Calculus III ,MATH 367,Mathematics 267 or 277; and Mathematics 211 or 213. ,Credit for Mathematics 367 and either 331 or 377 will not be allowed. ,none
+371,Combinatorics and Graph Theory ,MATH 371,Mathematics 271 or 273; and 3 units from Mathematics 249$ 265 or 275.,none,none
+375,Differential Equations for Engineers and Scientists ,MATH 375,Mathematics 277 or both Mathematics 267 and 177.,Credit for Mathematics 375 and either 376 or Applied Mathematics 311 will not be allowed. ,none
+376,Differential Equations I ,MATH 376,Mathematics 267 or 277.,Credit for Mathematics 376 and 375 or Applied Mathematics 307 will not be allowed. ,none
+377,Vector Calculus for Engineers and Scientists ,MATH 377,Mathematics 375. ,Credit for Mathematics 377 and either 331 or 367 will not be allowed. ,none
+383,Introduction to Mathematical Finance ,MATH 383,Statistics 321. ,none,none
+391,Numerical Analysis I ,MATH 391,Mathematics 211 or 213; and Mathematics 267 or 277; and 3 units from Computer Science 217$ 231$ 235 or Data Science 211. ,Credit for Mathematics 391 and Computer Science 491 will not be allowed.,none
+401,Special Topics,MATH 401,Consent of the Department.,none,none
+403,Topics in Mathematics for Economics,MATH 403,Mathematics 211 or 213; and 3 units from Mathematics 267 or 277 or 6 units from Economics 387 and 389.,none,none
+413,Introduction to Partial Differential Equations ,MATH 413,Mathematics 331; or 6 units from Mathematics 375 or 376 and Mathematics 367 or 377.,none,none
+415,Mathematical Methods ,MATH 415,Mathematics 211 or 213; and 3 units from Mathematics 331$ 367$ 375 or 376.,none,none
+429,Cryptography: Design and Analysis of Cryptosystems ,MATH 429,Mathematics 315; and Mathematics 318 or Computer Science 418. ,none,none
+431,Algebra II ,MATH 431,Mathematics 315; and Mathematics 311 or 313. ,none,none
+433,Mathematical Methods in Physics ,MATH 433,Mathematics 211 or 213; and Mathematics 375 or 376; and Mathematics 367 or 377. ,none,none
+445,Analysis II ,MATH 445,Mathematics 367 or 377; and 3 units from Mathematics 311$ 313$ 361 or 411; and Mathematics 335 or 355.,Credit for Mathematics 445 and 447 will not be allowed.               ,none
+447,Enriched Analysis II,MATH 447,Mathematics 367 or 377; and Mathematics 313 or "B+" or higher in Mathematics 311; and Mathematics 355 or "B+" or higher in Mathematics 335.,Credit for Mathematics 447 and either Mathematics 445 or Pure Mathematics 545 will not be allowed.,none
+476,Differential Equations II ,MATH 476,Mathematics 375 or 376; and 3 units from Mathematics 367$ 377 or 331; and Mathematics 335 or 355.,none,none
+493,Numerical Analysis II ,MATH 493,3 units from Mathematics 331$ 375 or 376; and Mathematics 375 or 413; and 3 units from Mathematics 391$ Computer Science 491 or Geophysics 419. ,none,none
+501,Measure and Integration ,MATH 501,Mathematics 445 or 447; and 3 units of Mathematics in the Field of Mathematics at the 400 level or higher. ,Credit for Mathematics 501 and any one of Mathematics 601$ Pure Mathematics 501 or 601 will not be allowed.,none
+502,Topics in Mathematics ,MATH 502,6 units of Mathematics courses in the Field of Mathematics at the 400 level or above. ,none,none
+503,The Mathematics of Wavelets$ Signal and Image Processing ,MATH 503,3 units from Mathematics 391$ Computer Science 491 or Geophysics 419; and 6 units of Mathematics in the Field of Mathematics at the 400 level or above. ,none,none
+505,Calculus on Manifolds ,MATH 505,Mathematics 445 or 447; and Mathematics 375 or 376.,none,none
+511,Algebra III ,MATH 511,Mathematics 431; and 3 units from Mathematics 313$ 361 or 411; and 3 units of Mathematics in the Field of Mathematics at the 400 level or higher.,Credit for Mathematics 511 and either 607 or Pure Mathematics 611 will not be allowed.,none
+515,Foundations ,MATH 515,Mathematics 431; and Mathematics 335 or 355. ,none,none
+516,Senior Project ,MATH 516,6 units in the Field of Mathematics at the 400 level or above.,Credit for Mathematics 516 and 518 will not be allowed.,none
+518,Honours Thesis ,MATH 518,6 units in the Field of Mathematics at the 400 level or above.,Credit for Mathematics 518 and 516 will not be allowed.,none
+521,Complex Analysis II ,MATH 521,Mathematics 307; and Mathematics 445 or 447; and 3 units of Mathematics in the Field of Mathematics at the 400 level or above.,none,none
+525,Introduction to Algebraic Topology ,MATH 525,Mathematics 431; and Mathematics 445 or 447.   ,none,none
+527,Computational Number Theory ,MATH 527,Mathematics 327 and 431.,Credit for Mathematics 527 and either Pure Mathematics 527 or 643 will not be allowed. ,none
+545,Analysis III,MATH 545,Mathematics 445 or 447; and 3 units of Mathematics in the Field of Mathematics at the 400 level or above.,Credit for Mathematics 545 and 603 will not be allowed. ,none
+581,Stochastic Calculus for Finance,MATH 581,Mathematics 383; and 6 units of Mathematics in the Field of Mathematics at the 400 level or above.,Credit for Mathematics 581 and Applied Mathematics 681 will not be allowed. ,none
+583,Computational Finance ,MATH 583,Mathematics 381$ 413 and 493.,Credit for Mathematics 583 and Applied Mathematics 683 will not be allowed. ,none
+600,Research Seminar ,MATH 600,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
+601,Measure and Integration,MATH 601,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,Credit for Mathematics 601 and either Mathematics 501 or Pure Mathematics 501 will not be allowed.,none
+603,Analysis III ,MATH 603,Admission to a graduate program in Mathematics and Statistics or consent of the Department.  ,Credit for Mathematics 603 and either Mathematics 545 or Pure Mathematics 545 will not be allowed. ,none
+605,Differential Equations III ,MATH 605,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,Credit for Mathematics 605 and Applied Mathematics 605 will not be allowed.,none
+607,Algebra III ,MATH 607,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,Credit for Mathematics 607 and any of Pure Mathematics 511$ 607 or 611 will not be allowed.    ,none
+617,Functional Analysis ,MATH 617,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,Credit for Mathematics 617 and Applied Mathematics 617 will not be allowed.      ,none
+621,Complex Analysis,MATH 621,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,Credit for Mathematics 621 and 521 will not be allowed.,none
+625,Introduction to Algebraic Topology ,MATH 625,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,Credit for Mathematics 625 and either Mathematics 525 or Pure Mathematics 607 will not be allowed.         ,none
+627,Algebraic Geometry ,MATH 627,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
+631,Discrete Mathematics ,MATH 631,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
+635,Geometry of Numbers ,MATH 635,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
+637,Infinite Combinatorics ,MATH 637,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
+641,Number Theory ,MATH 641,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
+643,Computational Number Theory ,MATH 643,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,Credit for Mathematics 643 and any of Mathematics 527$ Pure Mathematics 527$ or Pure Mathematics 627 will not be allowed.    ,none
+647,Modular Forms ,MATH 647,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
+651,Topics in Applied Mathematics ,MATH 651,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
+653,Topics in Pure Mathematics ,MATH 653,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
+661,Scientific Modelling and Computation I,MATH 661,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
+663,Applied Analysis ,MATH 663,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
+667,Introduction to Quantum Information ,MATH 667,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
+669,Scientific Modelling and Computation II,MATH 669,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,none,none
+681,Stochastic Calculus for Finance ,MATH 681,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,Credit for Mathematics 681 and any one of Mathematics 581$ Applied Mathematics 681$ or Applied Mathematics 581 will not be allowed.,none
+683,Computational Finance ,MATH 683,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,Credit for Mathematics 683 and any one of Mathematics 583$ Applied Mathematics 683$ or Applied Mathematics 583 will not be allowed.     ,none
+685,Stochastic Processes ,MATH 685,Admission to a graduate program in Mathematics and Statistics or consent of the Department.,Credit for Mathematics 685 and Statistics 761  will not be allowed.,none
+691,Advanced Mathematical Finance I,MATH 691,Mathematics 681 and admission to a graduate program in Mathematics and Statistics.,none,none
+693,Advanced Mathematical Finance II,MATH 693,Mathematics 681 and 683 and admission to a graduate program in Mathematics and Statistics. ,none,none
