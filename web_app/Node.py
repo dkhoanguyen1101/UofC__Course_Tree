@@ -60,6 +60,7 @@ class course:
     def __init__(self, node):
         self.head = node
         self.nodeList = {self.head}
+        self.course = node.course
 
     def parse(self, node):
         toReturn = set()

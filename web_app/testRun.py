@@ -19,4 +19,6 @@ if __name__ == '__main__':
             i.child = Node('CPSC 217')
 
     print(newCourse.fullString())
+    print(newCourse.course)
+    print(newCourse)
 
