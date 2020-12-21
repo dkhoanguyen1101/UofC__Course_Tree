@@ -78,24 +78,28 @@ class course:
 
         return toReturn
     
+    def refresh(self):
+        self.nodeList = self.parse(self.head)
+
+    
     def setAndChild (self, l):
         self.head.child = andNode(l)
+        self.refresh()
 
 
     def setOrChild (self, l):
         self.head.child = orNode(l)
+        self.refresh()
         
     
     def setNofChild(self , n, l):
         self.head.child = nOfNode(n, l)
+        self.refresh()
      
 
     def setChild(self, s):
         self.head.child = s
-
-   
-
-
+        self.refresh()
 
     def smallToString(self, node):
         if node.type =='NODE' and node.child != None:
@@ -124,6 +128,19 @@ class course:
 
     def fullString(self):
         return self.largeToString(self.head)
+    
+    def allNodeToString(self):
+        toReturn = list()
+        for i in self.nodeList:
+            toReturn.append(i.toString())
+        return toReturn
+    
+    def allNodeSmallToString(self):
+        toReturn = list()
+        for i in self.nodeList:
+            toReturn.append(self.smallToString(i))
+        return toReturn
+
 
         
 

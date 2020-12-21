@@ -9,16 +9,16 @@ if __name__ == '__main__':
     newCourse.head.child.addItem([orNode([Node('CPSC 219'), Node('CPSC 233'), Node('CPSC 235')])])
 
 
-    print(newCourse.smallToString(newCourse.head))
-    newCourse.nodeList = newCourse.parse(newCourse.head)
+    # print(newCourse.smallToString(newCourse.head))
+    newCourse.refresh()
 
     for  i in newCourse.nodeList:
+        
         if i.course == 'CPSC 233':
             i.child = Node('CPSC 231')
         if i.course == 'CPSC 219':
             i.child = Node('CPSC 217')
-
+    
     print(newCourse.fullString())
-    print(newCourse.course)
-    print(newCourse)
-
+    
+    # print(newCourse.allNodeToString())
