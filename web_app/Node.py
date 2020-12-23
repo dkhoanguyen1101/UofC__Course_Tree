@@ -4,6 +4,10 @@ class Node:
         self.child = None
         self.type = 'NODE'
 
+    def setChild(self, node):
+        self.child = node
+
+
     def toString(self):
         return self.course
 
@@ -62,6 +66,7 @@ class course:
         self.nodeList = {self.head}
         self.course = node.course
 
+
     def parse(self, node):
         toReturn = set()
 
@@ -78,36 +83,44 @@ class course:
 
         return toReturn
     
+
+    
     def refresh(self):
         self.nodeList = self.parse(self.head)
 
     
-    def setAndChild (self, l):
-        self.head.child = andNode(l)
+
+    
+    def setAndChild (self,node, l):
+        
+        node.setChild(andNode(l))
         self.refresh()
 
 
-    def setOrChild (self, l):
-        self.head.child = orNode(l)
+    def setOrChild (self,node, l):
+        node.setChild(orNode(l))
         self.refresh()
         
     
-    def setNofChild(self , n, l):
-        self.head.child = nOfNode(n, l)
+    def setNofChild(self , node, n, l):
+        node.setChild(nOfNode(n, l))
         self.refresh()
      
 
-    def setChild(self, s):
-        self.head.child = s
+    def setChild(self,node, s): 
+        node.setChild(s)
         self.refresh()
 
     def smallToString(self, node):
+        self.refresh()
         if node.type =='NODE' and node.child != None:
-            return (node.course + '->' + self.head.child.toString())
+            return (node.course + '->' + node.child.toString())
         else:
-            return (node.toString)
+            return (node.toString())
+    
 
     def largeToString(self, node):
+        self.refresh()
         if node.type =='NODE' and node.child != None:
             return (node.course + '->' + self.largeToString(node.child))
         elif node.type =='NODE' and node.child == None:
@@ -127,19 +140,29 @@ class course:
                 return ( '(' + "+".join(stringList) + ')' )
 
     def fullString(self):
+        self.refresh()
         return self.largeToString(self.head)
     
     def allNodeToString(self):
+        self.refresh()
         toReturn = list()
         for i in self.nodeList:
             toReturn.append(i.toString())
         return toReturn
     
     def allNodeSmallToString(self):
+        self.refresh()
         toReturn = list()
         for i in self.nodeList:
             toReturn.append(self.smallToString(i))
         return toReturn
+    
+    def findNode(self, aString):
+        self.refresh()
+        for i in self.nodeList:
+            if i.course == aString:
+                return i
+        return None
 
 
         
