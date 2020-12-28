@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup #data scraping
 import requests #data scraping
 
 #connect to server
-conn = pyodbc.connect('Driver={SQL Server};'
+conn = pyodbc.connect('Driver={ODBC Driver 17 for SQL Server};'
                       'Server=DESKTOP-H322HOI;'
                       'Database=UofC_Tree_Apps;'
                       'Trusted_Connection=yes;')
@@ -37,7 +37,9 @@ def log_course(courses, code, name):
     for i in courses:
         j = i.findAll('span', class_='course-code')
         number = j[1].contents[0]
-        course_code = "".join([code, number])
+        acode = code
+        acode = acode.replace("PPLAN", "PLAN").replace("TTRAN", "TRAN")
+        course_code = " ".join([acode, number])
         course_name = j[2].contents[0]
         
         if (len(i.find('span', class_="course-prereq").contents) > 0):
@@ -61,14 +63,14 @@ def log_course(courses, code, name):
             course_desc = 'none'
         val = [code, number, course_name, course_code, course_pre, course_anti, course_con, course_desc]
         
-        course_name = course_name.replace("'", "singlequote")
-        course_pre = course_pre.replace("'", "singlequote")
-        course_anti = course_anti.replace("'", "singlequote")
-        course_con = course_con.replace("'", "singlequote")
-        course_desc = course_desc.replace("'", "singlequote")
+        course_name = course_name.replace("'", "''")
+        course_pre = course_pre.replace("'", "''")
+        course_anti = course_anti.replace("'", "''")
+        course_con = course_con.replace("'", "''")
+        course_desc = course_desc.replace("'", "''")
 
         # sql = f"INSERT INTO {code} (number, name , code , pre , anti , con , des) VALUES (\'{number}\', \'{course_name}\', \'{course_code}\', \'{course_pre}\', \'{course_anti}\', \'{course_con}\', \'{course_desc}\')"
-        sql = f"INSERT INTO {code} (number, name , code , pre , anti , con ) VALUES (\'{number}\', \'{course_name}\', \'{course_code}\', \'{course_pre}\', \'{course_anti}\', \'{course_con}\')"
+        sql = f"INSERT INTO {code} (number, name , code , pre , anti , con ) VALUES ({int(number)}, \'{course_name}\', \'{course_code}\', \'{course_pre}\', \'{course_anti}\', \'{course_con}\')"
         # print(sql)
         cursor.execute(sql)
 
@@ -78,6 +80,8 @@ def log_course(courses, code, name):
         
 
 def get_data(soup):
+
+    cursor.execute("DROP TABLE IF EXISTS dbo.courses")
     cursor.execute("CREATE TABLE courses (code VARCHAR(255), name VARCHAR(255))")
     for i in soup.findAll('span', class_='contents-text' , style='margin-left:15px;' ):
         j = (i.find('a').get('href'))
@@ -92,9 +96,10 @@ def get_data(soup):
         cursor.execute(sql, val)
         
         # sql = f"CREATE TABLE {code} (number VARCHAR(255), name VARCHAR(255), code VARCHAR(255), pre VARCHAR(1023), anti VARCHAR(1023), con VARCHAR(1023), des VARCHAR(1023))"
-        sql = f"CREATE TABLE {code} (number VARCHAR(255), name VARCHAR(255), code VARCHAR(255), pre VARCHAR(1023), anti VARCHAR(1023), con VARCHAR(1023))"
+        sql = f"DROP TABLE IF EXISTS {code}"
+        cursor.execute(sql)
+        sql = f"CREATE TABLE {code} (number INT, name VARCHAR(255), code VARCHAR(255), pre VARCHAR(1023), anti VARCHAR(1023), con VARCHAR(1023))"
 
-        val = (code)
         cursor.execute(sql)
         log_course(courses, code, name)
         
